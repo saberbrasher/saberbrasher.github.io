@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://saberbrasher.github.io/al-folio/sitemap.xml
+Sitemap: https://saberbrasher.github.io/hydra/sitemap.xml
