@@ -6,7 +6,7 @@ subtitle: Housed in the <a href='https://cas.okstate.edu/department_of_geography
 
 
 profile:
-  align: center
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   
