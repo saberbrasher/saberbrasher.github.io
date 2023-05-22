@@ -4,9 +4,6 @@ title: about
 permalink: /
 subtitle: Housed in the <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> at Oklahoma State University and led by Dr. Saber E. Brasher.
 
-<div class="about-image">
-  <img src="{{ site.baseurl }}/assets/img/prof_pic.jpg" alt="Image Caption" />
-</div>
 
 profile:
   align: center
@@ -19,6 +16,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
+<div class="about-image">
+  <img src="{{ site.baseurl }}/assets/img/prof_pic.jpg" alt="Image Caption" />
+</div>
 
 Hellloooo. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
