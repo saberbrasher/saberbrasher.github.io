@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: Housed in the <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> at Oklahoma State University and led by Dr. Saber E. Brasher.
 
-(/assets/img/prof_pic.jpg)
+image: prof_pic.jpg
 
 profile:
   align: center
