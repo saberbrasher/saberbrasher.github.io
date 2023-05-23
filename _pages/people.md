@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
             
-<h2 id="faculty">PI</h2>
+<h2 id="faculty">Principle Investigator</h2>
 
 <p>
     </p>
@@ -61,7 +61,7 @@ nav_order: 4
 <p>
     </p>
     
-    <p>
+ <p>
     </p>
 <div class="card hoverable">
         <div class="row no-gutters">
