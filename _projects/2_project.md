@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Precipitation Changes
+title: Precipitation Magnitude and Frequency
 description: 
 img: assets/img/3.jpg
 importance: 2
