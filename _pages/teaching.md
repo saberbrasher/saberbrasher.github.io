@@ -32,16 +32,13 @@ nav_order: 4
                     
                     
                     
-                        <a href="https://orcid.org/0000-0002-5517-2972" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
+                        <a href="https://orcid.org/0000-0003-2925-5691" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
                     
                     
                     
                     
-                        <a href="https://www.hopkinsmedicine.org/profiles/details/hariharan-easwaran" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
-                    
-                    <p class="card-text">
-                        <small class="test-muted"><i class="fas fa-thumbtack"></i> Cancer Research Building 1,  Suite 544,  1650 Orleans St,          Baltimore, MD 21205
-</small>
+                        <a href="https://cas.okstate.edu/department_of_geography/saber_brasher_updated.html" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+
                     </p>
                 </div>
             </div>
