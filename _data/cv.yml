@@ -1,27 +1,19 @@
-- title: Honors and Awards
-  type: time_table
+- title: Overall Approach
+  type: list
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - Text here. 
 
-- title: Academic Interests
+
+- title: Teaching
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Course 1.
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Course 2.
       items:
         - Description 1.
         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
