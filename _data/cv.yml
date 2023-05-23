@@ -1,33 +1,27 @@
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items: 
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
+      items: 
+        - Max Planck Medal
 
-- title: Overall Approach
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
   type: list
   contents:
-    - text here that summarizes ideas on teaching/ mentoring. 
-    
-- title: Teaching
-  type: nested_list
-  contents:
-    - title: Course 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Course 2.
-      itemss:
-        - Description 2.
-        
- - title: Mentoring
-  type: nested_list
-  contents:
-    - title: Graduate students as future colleagues.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Expectations.
-      itemss:
-        - Description 2.
-    - title: Resources.
-      itemss:
-        - Description 2.
-
-
-
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
