@@ -94,4 +94,8 @@
 - title: Other Interests
   type: list
   contents:
+  profile:
+  align: left
+  image: prof_pic.JPG
+  image_circular: false # crops the image to make it circular
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
