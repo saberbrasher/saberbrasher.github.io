@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: and mentoring
+title: pedagogy
+description: 
 nav: true
 nav_order: 3
 ---
