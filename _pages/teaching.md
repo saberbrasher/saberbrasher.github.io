@@ -7,19 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-Teaching approaches and mentoring statement here. 
-
- <!-- Content -->
-    <div class="container mt-5">
-      <!-- page.html -->
-        <div class="post">
-
-          <header class="post-header">
-            <h1 class="post-title">Team</h1>
-            <p class="post-description" style="font-size: 1.2rem">We have a truly interdisciplinary team that allows us to carry out studies ranging from exploring basic epigenetic mechanisms of carcinogenesis to the development of next-generation microfluidic epigenetic diagnostic platforms. Here are the members and faculty affiliated with the Epidiagnostics Group at JHU.</p>
-          </header>
-
-          <article>
             
 <h2 id="faculty">Faculty</h2>
 
@@ -44,10 +31,6 @@ Teaching approaches and mentoring statement here.
                     </a>
                     
                         <a href="mailto:tpisanic@jhu.edu" class="card-link"><i class="fas fa-envelope"></i></a>
-                    
-                    
-                        <a href="tel:+1%20410%20516%201135" class="card-link"><i class="fas fa-phone"></i></a>
-                    
                     
                         <a href="https://orcid.org/0000-0001-5796-0836" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
                     
