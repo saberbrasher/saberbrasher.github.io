@@ -15,7 +15,7 @@ nav_order: 4
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="/saberbrasher.github.io/assets/img/saber.jpg" class="card-img img-fluid" alt="name">
+                <img src="/assets/img/saber.jpg" class="card-img img-fluid" alt="name">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
