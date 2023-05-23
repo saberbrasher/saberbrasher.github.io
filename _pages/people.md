@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
             
-<h2 id="faculty">Principle Investigator</h2>
+<h2 id="faculty">Principal Investigator</h2>
 
 <p>
     </p>
