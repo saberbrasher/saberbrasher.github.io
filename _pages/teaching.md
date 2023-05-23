@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /people/
-title: people
-description: Members of the lab. 
+permalink: /teaching/
+title: teaching
+description: and mentoring
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
-Put in a bio for all members of the HYDRA lab here. 
+Teaching approaches and mentoring statement here. 
