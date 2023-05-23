@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with a background image
+title: Water Resources
+description: 
 img: assets/img/1.jpg
 importance: 4
 category: Environmental Adaptation
