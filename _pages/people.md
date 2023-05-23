@@ -15,7 +15,7 @@ nav_order: 4
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="/epidiagnostics/assets/img/team/hari-pic.jpg" class="card-img img-fluid" alt="Hariharan P. Easwaran, PhD, MSc">
+                <img src="/saberbrasher.github.io/assets/img/person.jpg" class="card-img img-fluid" alt="name">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
@@ -26,20 +26,10 @@ nav_order: 4
                         Person is a person is a person, filler text, more filler text. Here is more about them. 
 
                     </p>
-                    </a>
-                    
-                        <a href="mailto:saber.brasher@okstate.edu" class="card-link"><i class="fas fa-envelope"></i></a>
-                    
-                    
-                    
-                        <a href="https://orcid.org/0000-0003-2925-5691" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
-                    
-                    
-                    
-                    
-                        <a href="https://cas.okstate.edu/department_of_geography/saber_brasher_updated.html" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+                     <a href="mailto:saber.brasher@okstate.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+                 <a href="https://orcid.org/0000-0003-2925-5691" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
+                            <a href="https://cas.okstate.edu/department_of_geography/saber_brasher_updated.html" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
 
-                    </p>
                 </div>
             </div>
         </div>
