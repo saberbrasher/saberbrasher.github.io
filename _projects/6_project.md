@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 6
-description: a project with no image
-img:
+description: a project with a background image
+img: assets/img/1.jpg
 importance: 4
-category: fun
+category: Environmental Adaptation
 ---
 
 Every project has a beautiful feature showcase page.
