@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /pedagogy/
-title: pedagogy
+permalink: /people/
+title: people
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 Teaching approaches and mentoring statement here. 
