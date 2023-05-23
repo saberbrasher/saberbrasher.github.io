@@ -16,4 +16,14 @@
         - Description 1.
         - Description 2.
 
-
+- title: Mentoring
+  type: nested_list
+  contents:
+    - title: Students as colleagues in training.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Resources.
+      items:
+        - Description 1.
+        - Description 2.
