@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agriculture
+title: Agriculture Applications
 description: 
 img: assets/img/1.jpg
 importance: 3
