@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research
+title: research themes
 permalink: /research/
-description: themes
+description: 
 nav: true
 nav_order: 2
 display_categories: [Hydroclimate, Environmental Adaptation]
