@@ -914,9 +914,10 @@ nav[data-toggle=toc] .nav-link.active:hover {
 }
 
 .text-box {
-  border: 1px solid #ccc; /* Customize the border color and size */
-  padding: 10px; /* Adjust the padding as needed */
-  background-color: #f5f5f5; /* Customize the background color */
+  border: 2px solid #397a10; /* Customize the border color and size */
+  padding: 0px; /* Adjust the padding as needed */
+  background-color: #67a83e; /* Customize the background color */
+  width: 1000px;
 }
 
 /*******************************************************************************
