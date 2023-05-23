@@ -913,13 +913,6 @@ nav[data-toggle=toc] .nav-link.active:hover {
   color: var(--global-danger-block-title);
 }
 
-.text-box {
-  border: 2px solid #397a10; /* Customize the border color and size */
-  padding: 0px; /* Adjust the padding as needed */
-  background-color: #67a83e; /* Customize the background color */
-  width: 1000px;
-}
-
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
