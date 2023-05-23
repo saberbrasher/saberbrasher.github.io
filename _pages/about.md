@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>H</b>ydroclimate and Envi<b>R</b>onmental <b>A</b>daptation
 
