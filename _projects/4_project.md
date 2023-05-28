@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Climate and Biodiversity
+title: Climate Change and Biodiversity
 description: 
 img: assets/img/1.jpg
 importance: 4
