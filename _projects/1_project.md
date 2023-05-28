@@ -50,7 +50,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/p1_2.jpg" class="img-fluid" %}
+        {% include figure.html path="assets/img/p1_1.jpg" class="img-fluid" %}
     </div>
    
     <div class="col-sm-5 mt-3 mt-md-0">
