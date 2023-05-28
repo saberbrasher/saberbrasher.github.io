@@ -49,11 +49,11 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/p1_2.jpg" class="img-fluid" %}
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/p1_2.png" class="img-fluid" %}
     </div>
    
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-4 mt-md-0">
         {% include figure.html path="assets/img/p1_3.jpg" class="img-fluid" %}
     </div>
 </div>
