@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Water Resources
+title: Climate and Biodiversity
 description: 
 img: assets/img/1.jpg
 importance: 4
