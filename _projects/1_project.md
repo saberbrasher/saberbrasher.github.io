@@ -7,9 +7,9 @@ importance: 1
 category: Hydroclimate
 ---
 
-Every project has a beautiful feature showcase page.
+<big> Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Make your photos 1/3, 2/3, or full width. </big>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -49,11 +49,11 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/p1_2.jpg" class="img-fluid" %}
     </div>
    
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/p1_3.jpg" class="img-fluid" %}
     </div>
 </div>
