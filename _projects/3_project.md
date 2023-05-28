@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agriculture Applications
+title: Agriculture and Water Resources
 description: 
 img: assets/img/1.jpg
 importance: 3
