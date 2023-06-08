@@ -4,26 +4,23 @@
     - Text here. 
 
 
-- title: Teaching
+- title: Mentoring
   type: nested_list
   contents:
-    - title: Course 1.
+    - title: How my background influences my mentoring relationships:
       items: 
         - Description 1.
         - Description 2.
-    - title: Course 2.
+    - title: What I look for in prospective students:
       items:
         - Description 1.
         - Description 2.
 
-- title: Mentoring
+- title: Teaching
   type: nested_list
   contents:
-    - title: Students as colleagues in training.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Resources.
+    - title: Research without education and outreach accomplishes very little. The terms “climate change” and “global warming”, along with the increasing severity of extreme weather events, has moved climate science to the forefront of public discourse. I believe that education is powerful; it builds confidence and creates advocates for our planet. For these reasons, I take my role as an educator and science communicator very seriously. Most environmental sciences are powerful tools in situational awareness: the subject matter is always around us. For this reason, regardless of the course level, my first teaching objective is to have students situate themselves within the discipline. I do this through mixed methods, such as including relevant news articles involving climate and the environment, photos and videos of areas undergoing environmental change, and by incorporating project work that engages students in research. Throughout my teaching appointments, I keep in mind the following thought: How can I empower students to confidently discuss, and understand, such pertinent subject matters? Climate and environmental sciences directly influence all life on the planet. How, through my teaching, can I do the most good, for the students, but also for the planet? 
+    - title: Courses taught at OSU:
       items:
         - Description 1.
         - Description 2.
