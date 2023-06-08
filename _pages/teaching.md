@@ -30,11 +30,11 @@ nav_order: 5
 </div>
 
 <p>
-<h4> Interested in joining the HydRA lab? </h4>
+<h4> Interested in joining the HydRA lab? </h4> </p>
 
-If you are interested in working with the HydRA lab, please reach out via email. In the email it is very helpful if you include a bit about why you are interested in working with the group, who you are/ relevant experience, and attach the latest version of your CV. We are open to discussing possibilities with those interested across all stages of an academic career (from undergraduate - graduate - postdoc) but please know that, even if the fit seems ideal, positions are not always available, and availability depends on several factors. 
+<p>If you are interested in working with the HydRA lab, please reach out via email. In the email it is very helpful if you include a bit about why you are interested in working with the group, who you are/ relevant experience, and attach the latest version of your CV. We are open to discussing possibilities with those interested across all stages of an academic career (from undergraduate - graduate - postdoc) but please know that, even if the fit seems ideal, positions are not always available, and availability depends on several factors. </p>
 
-
+<p>
 <dl>
  <dt> Undergraduates: </dt>
  <dd>- I enjoy working with undergraduates who are excited about learning the ins and outs of research.  Please reach out if you have interests in atmospheric science (climatology/ meteorology) or more general environmental science and climate interactions (especially if you are a previous student of mine!). There are a couple opportunities on campus that could fund your research activities (like the AURCA program in the College of Arts and Sciences) or you could potentially get research course credits if you are looking to get more hours for graduation.  </dd>
@@ -43,7 +43,7 @@ If you are interested in working with the HydRA lab, please reach out via email.
  <dt> Postdocs: </dt>
  <dd>- Currently I do not have funding to support a postdoc. If you think a collaboration between the two of us would be a great match, do feel free to reach out and we can discuss current proposals that are pending and other potential avenues for funding your time at OSU. </dd>
 </dl>
-
+</p>
 
 
 
