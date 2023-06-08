@@ -8,6 +8,9 @@ nav_order: 5
 ---
 
 <h2> To prospective students: </h2>
+
+<div style="height: 175px; overflow: auto;">
+   <!-- Content goes here -->
 <p>Academia can be an odd place to navigate, especially as a first-generation or minority-identifying student/ scholar. There are a lot of "unwritten rules" for how to behave within the academy, how to communicate, and how to do your work. As a first-generation scholar myself, I am still learning the systems too, and I urge all students and prospective graduate researchers to remember the following: <b> there are no stupid questions. </b></p>
 
 <p>A secret students should know? <b> No one has all of the answers. </b> The professors you idolize or are afraid of? They are still learning too, they have just gotten very good at asking questions (and finding the answers, which takes years of practice). </p>
@@ -18,7 +21,7 @@ nav_order: 5
 
 <p> <b> People believing in me as a scrappy, first-gen student who didn't know if she was smart or not (and was working 30+ hours a week at a restaurant to pay for college) are the reason I am in this position today. To give back some of what they gave to me is a gift. </b> As an educator and advisor, meeting my students where they are at is of the utmost importance to me. The path to diversifying academia requires good mentors and teachers, and it is my goal to contribute to this evolution: the environmental and societal problems of today and the future need all of us. </p>
 <hr />
-
+</div>
 
 
 <h2>Mentoring</h2>
@@ -29,7 +32,7 @@ nav_order: 5
 
 <h2>Teaching</h2>
 
-<div style="height: 300px; overflow: auto;">
+<div style="height: 175px; overflow: auto;">
    <!-- Content goes here -->
 <p>Research without education and outreach accomplishes very little. The terms “climate change” and “global warming”, along with the increasing severity of extreme weather events, has moved climate science to the forefront of public discourse. I believe that education is powerful; it builds confidence and creates advocates for our planet. For these reasons, I take my role as an educator and science communicator very seriously. </p>
 
@@ -38,7 +41,7 @@ nav_order: 5
 <p>Throughout my teaching, I keep in mind the following: How can I empower students to confidently discuss, and understand, such pertinent subject matters? Climate and environmental sciences directly influence all life on the planet. How, through my teaching, can I do the most good, for the students, but also for the planet? </p>
 </div>
 
-
+<p>
 <h3> Courses taught at OSU: </h3>
 
 
