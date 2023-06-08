@@ -20,9 +20,8 @@ nav_order: 5
 <p>As an educator, mentor, advisor, I strive to push students (of all stages) to new insights, challenging them along the way, but also creating an environment that they know is safe for asking questions. Failure happens and is often the catalyst for the biggest breakthroughs. Overcoming hardship builds confidence, and my goal is to create a space where failure is just seen as part of the process and not an end to discovery. </p>
 
 <p> <b> People believing in me as a scrappy, first-gen student who didn't know if she was smart or not (and was working 30+ hours a week at a restaurant to pay for college) are the reason I am in this position today. To give back some of what they gave to me is a gift. </b> As an educator and advisor, meeting my students where they are at is of the utmost importance to me. The path to diversifying academia requires good mentors and teachers, and it is my goal to contribute to this evolution: the environmental and societal problems of today and the future need all of us. </p>
-<hr />
 </div>
-
+<hr />
 
 <h2>Mentoring</h2>
 <p>This is the content of section 2.</p>
@@ -42,6 +41,6 @@ nav_order: 5
 </div>
 
 <p>
-<h3> Courses taught at OSU: </h3>
+<h4> Courses taught at OSU: </h4>
 
 
