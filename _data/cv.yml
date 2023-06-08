@@ -2,16 +2,3 @@
   type: list
   contents:
     - Text here. 
-
-
-- title: Mentoring
-  type: nested_list
-  contents:
-    - title: How my background influences my mentoring relationships:
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: What I look for in prospective students:
-      items:
-        - Description 1.
-        - Description 2.
