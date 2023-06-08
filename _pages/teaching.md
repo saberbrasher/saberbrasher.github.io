@@ -9,7 +9,7 @@ nav_order: 5
 
 <h2> To prospective students: </h2>
 
-<div style="height: 175px; overflow: auto;">
+<div style="height: 175px; overflow: auto; border: 1px solid #000; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <p>Academia can be an odd place to navigate, especially as a first-generation or minority-identifying student/ scholar. There are a lot of "unwritten rules" for how to behave within the academy, how to communicate, and how to do your work. As a first-generation scholar myself, I am still learning the systems too, and I urge all students and prospective graduate researchers to remember the following: <b> there are no stupid questions. </b></p>
 
@@ -31,7 +31,7 @@ nav_order: 5
 
 <h2>Teaching</h2>
 
-<div style="height: 175px; overflow: auto;">
+<div style="height: 175px; overflow: auto; border: 1px solid #000; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <p>Research without education and outreach accomplishes very little. The terms “climate change” and “global warming”, along with the increasing severity of extreme weather events, has moved climate science to the forefront of public discourse. I believe that education is powerful; it builds confidence and creates advocates for our planet. For these reasons, I take my role as an educator and science communicator very seriously. </p>
 
