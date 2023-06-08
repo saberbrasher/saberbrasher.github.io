@@ -12,14 +12,29 @@ nav_order: 5
 
 <p>A secret students should know? <b> No one has all of the answers. </b> The professors you idolize or are afraid of? They are still learning too, they have just gotten very good at asking questions (and finding the answers, which takes years of practice). </p>
 
-<p>A thirst to never stop learning and to contuiously evolve and improve goes much farther than "book smarts", and drive (sometimes with a dash of stubbornness) will get you through the times that you wonder if finishing is worth it. Along the way though, don't struggle alone. Find your people. Whatever stage you are at in your career, find people that support you in the direction of your dreams. </p>
+<p>A thirst to never stop learning and to continuously evolve and improve goes much farther than "book smarts", and drive (sometimes with a dash of stubbornness) will get you through the times that you wonder if finishing is worth it. Along the way though, don't struggle alone. Find your people. Whatever stage you are at in your career, find people that support you in the direction of your dreams. </p>
 
 <p>As an educator, mentor, advisor, I strive to push students (of all stages) to new insights, challenging them along the way, but also creating an environment that they know is safe for asking questions. Failure happens and is often the catalyst for the biggest breakthroughs. Overcoming hardship builds confidence, and my goal is to create a space where failure is just seen as part of the process and not an end to discovery. </p>
 
-<p> <b> People believeing in me as a scrappy, first-gen student who didn't know if she was smart or not (and was working 30+ hours a week at a restaurant to pay for college) are the reason I am in this position today. To give back some of what they gave to me is a gift. </b> As an educator and advisor, meeting my students where they are at is of the utmost importance to me. The path to diversifying academia requires good mentors and teachers, and it is my goal to contribute to this evolution: the environmental and societal problems of today and the future need all of us. </p>
+<p> <b> People believing in me as a scrappy, first-gen student who didn't know if she was smart or not (and was working 30+ hours a week at a restaurant to pay for college) are the reason I am in this position today. To give back some of what they gave to me is a gift. </b> As an educator and advisor, meeting my students where they are at is of the utmost importance to me. The path to diversifying academia requires good mentors and teachers, and it is my goal to contribute to this evolution: the environmental and societal problems of today and the future need all of us. </p>
 <hr />
+
+
+
 <h2>Mentoring</h2>
 <p>This is the content of section 2.</p>
 <hr />
+
+
+
 <h2>Teaching</h2>
-<p>This is the content of section 2.</p>
+<p>Research without education and outreach accomplishes very little. The terms “climate change” and “global warming”, along with the increasing severity of extreme weather events, has moved climate science to the forefront of public discourse. I believe that education is powerful; it builds confidence and creates advocates for our planet. For these reasons, I take my role as an educator and science communicator very seriously. </p>
+
+<p>Most environmental sciences are powerful tools in situational awareness: the subject matter is always around us. Regardless of the course level, my first teaching objective is to have students situate themselves within the discipline. I do this through mixed methods, such as including relevant news articles involving climate and the environment, photos and videos of areas undergoing environmental change, and by incorporating project work that engages students in research. </p>
+
+<p>Throughout my teaching, I keep in mind the following: How can I empower students to confidently discuss, and understand, such pertinent subject matters? Climate and environmental sciences directly influence all life on the planet. How, through my teaching, can I do the most good, for the students, but also for the planet? </p>
+
+<h3> Courses taught at OSU: </h3>
+
+
+</p>
