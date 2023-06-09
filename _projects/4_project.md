@@ -33,9 +33,6 @@ category: Environmental Adaptation
 <div class="row">
     <div class="col-sm-7">
         {% include figure.html path="assets/img/p4_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            You can also have artistically styled 2/3 + 1/3 images, like these. This is a test to make the caption longer and see how it displays on the web page. How will it be formatted? Who knows... it is a mystery. The above image is of a snow covered landscape, with trees covered in snow, reaching over a chain link fence. It was taken after a winter storm in Delaware. 
-        </div>
     </div>
     <div class="col-sm-5">
         <p> This image should be left aligned. Here is some more text: Say you wanted to write a little bit about your project before you posted the rest of the images.
@@ -55,12 +52,8 @@ category: Environmental Adaptation
     </div>
      <div class="col-sm-7">
         {% include figure.html path="assets/img/p4_7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            You can also have artistically styled 2/3 + 1/3 images, like these. This is a test to make the caption longer and see how it displays on the web page. How will it be formatted? Who knows... it is a mystery. The above image is of a snow covered landscape, with trees covered in snow, reaching over a chain link fence. It was taken after a winter storm in Delaware. 
-        </div>
     </div>
 </div>
-
 
 
 <div class="row">
