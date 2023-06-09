@@ -53,7 +53,6 @@ nav_order: 5
  <dt> Postdocs: </dt>
  <dd>- Currently I do not have funding to support a postdoc. If you think a collaboration between the two of us would be a great match, do feel free to reach out and we can discuss current proposals that are pending and other potential avenues for funding your time at OSU. </dd>
 </dl>
-</p>
 </div>
 
 
