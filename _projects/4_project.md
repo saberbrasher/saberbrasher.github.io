@@ -7,19 +7,14 @@ importance: 4
 category: Environmental Adaptation
 ---
 
-
-<big> Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width. </big>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/p4_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
+
+<big> This is a new path of research that the lab is just beginning to explore. In recent years, more research has been conducted that truly integrates the fields of climatology and ecology, diving much deeper into the atmospheric dynamics driving species changes and biome shifts than ever before. Coupling advancing technology (weather radars and satellite remote sensing) that tracks Earth surface changes and movement of some species (birds and insects with radar and through citizen science apps like eBird) with methods in atmospheric science is a marriage that yields deeper insight to how changing climate regimes drive other environemntal adaptations. </big>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,9 +27,7 @@ Make your photos 1/3, 2/3, or full width. </big>
         {% include figure.html path="assets/img/p4_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
 
 
 <div class="row">
