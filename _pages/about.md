@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>H</b>ydroclimate and Envi<b>R</b>onmental <b>A</b>daptation
+subtitle: <b>Hyd</b>roclimate and Envi<b>R</b>onmental <b>A</b>daptation
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
