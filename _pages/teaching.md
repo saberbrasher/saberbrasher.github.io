@@ -9,7 +9,7 @@ nav_order: 5
 
 <h2> To prospective students: </h2>
 
-<div style="height: 200px; overflow: auto; border: 1px solid #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
+<div style="height: 225px; overflow: auto; border: 1px solid #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <p>Academia can be an odd place to navigate, especially as a first-generation or minority-identifying student/ scholar. There are a lot of "unwritten rules" for how to behave within the academy, how to communicate, and how to do your work. As a first-generation scholar myself, I am still learning the systems too, and I urge all students and prospective graduate researchers to remember the following: <b> there are no stupid questions. </b></p>
 
@@ -24,7 +24,7 @@ nav_order: 5
 <hr />
 
 <h2>Mentoring</h2>
-<div style="height: 200px; overflow: auto; border: 1px solid #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
+<div style="height: 225px; overflow: auto; border: 1px solid #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <p>I have been fortunate to have excellent mentors - some were my research advisors, and others were other faculty in my departments who were kind enough to give me their time when they really had no obligation to. </p>
 
@@ -39,11 +39,12 @@ nav_order: 5
 <p> I see students as future colleagues and adults, and as such I expect them to treat graduate school as they would any other fulltime job. I expect students to keep me informed as to when they will be unavailable or travelling, and they can expect a yearly performance review where we can both provide feedback to one another. I expect us to establish a working relationship that is grounded in clear and frequent communication. At the end of the day, I want all my students to succeed - to do that we need to make sure no issues fester or become bigger than they need to be. </p> 
 </div>
 
-<p><h4> Interested in joining the HydRA lab? </h4></p>
+<p><h4> Want to join the HydRA lab? </h4></p>
 
 <p>If you are interested in working with the HydRA lab, please reach out via email. In the email it is very helpful if you include a bit about why you are interested in working with the group, who you are/ relevant experience, and attach the latest version of your CV. We are open to discussing possibilities with those interested across all stages of an academic career (from undergraduate - graduate - postdoc) but please know that, even if the fit seems ideal, positions are not always available, and availability depends on several factors. </p>
 
-<p>
+<div style="height: 150px; overflow: auto; border: 1px solid #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
+   <!-- Content goes here -->
 <dl>
  <dt> Undergraduates: </dt>
  <dd>- I enjoy working with undergraduates who are excited about learning the ins and outs of research.  Please reach out if you have interests in atmospheric science (climatology/ meteorology) or more general environmental science and climate interactions (especially if you are a previous student of mine!). There are a couple opportunities on campus that could fund your research activities (like the AURCA program in the College of Arts and Sciences) or you could potentially get research course credits if you are looking to get more hours for graduation.  </dd>
@@ -53,7 +54,7 @@ nav_order: 5
  <dd>- Currently I do not have funding to support a postdoc. If you think a collaboration between the two of us would be a great match, do feel free to reach out and we can discuss current proposals that are pending and other potential avenues for funding your time at OSU. </dd>
 </dl>
 </p>
-
+</div>
 
 
 <hr />
@@ -62,7 +63,7 @@ nav_order: 5
 
 <h2>Teaching</h2>
 
-<div style="height: 200px; overflow: auto; border: 1px solid #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
+<div style="height: 225px; overflow: auto; border: 1px solid #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <p>Research without education and outreach accomplishes very little. The terms “climate change” and “global warming”, along with the increasing severity of extreme weather events, has moved climate science to the forefront of public discourse. I believe that education is powerful; it builds confidence and creates advocates for our planet. For these reasons, I take my role as an educator and science communicator very seriously. </p>
 
@@ -73,6 +74,8 @@ nav_order: 5
 
 <p><h4> Courses taught at OSU: </h4></p>
 
+<div style="height: 150px; overflow: auto; border: 1px solid #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
+   <!-- Content goes here -->
 <dl>
  <dt> Meteorology (GEOG 3033): </dt>
  <dd>- Introduces weather processes, including how energy, moisture, and variation in land cover surfaces influence weather phenomena across space. The course begins with an introduction to the atmosphere and how energy exchanges and physics dictate atmospheric motion before diving into atmospheric processes and specific weather phenomena, including winds, hurricanes, tornadoes, cyclones, etc., and how all are linked to the atmosphere’s state of stability. Meteorological hazards and extreme events are also discussed. </dd>
@@ -81,7 +84,7 @@ nav_order: 5
  <dt> Climate Change and Humanity (GEOG/GEOL 1022): </dt>
  <dd>- Introduces Earth and environmental sciences, with an emphasis on the atmosphere and how it impacts life on Earth as well as how living things have changed it. Outlines the basics of climate change and what makes it complicated, how climate interacts with all components of the Earth-system, and where changes are most magnified. Future climate impacts and scenarios are also discussed. </dd>
 </dl>
-
+</div>
 
 
 
