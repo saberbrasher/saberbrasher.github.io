@@ -2,7 +2,7 @@
 layout: page
 title: Cryosphere-Atmosphere Dynamics
 description: 
-img: assets/img/p1_2.jpg
+img: assets/img/p1_1.jpg
 importance: 1
 category: Hydroclimate
 ---
@@ -13,7 +13,7 @@ Make your photos 1/3, 2/3, or full width. </big>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/p1_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/p1_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 <div class="row">
     <div class="col-sm-7">
-        {% include figure.html path="assets/img/p1_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/p1_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             You can also have artistically styled 2/3 + 1/3 images, like these. This is a test to make the caption longer and see how it displays on the web page. How will it be formatted? Who knows... it is a mystery. The above image is of a snow covered landscape, with trees covered in snow, reaching over a chain link fence. It was taken after a winter storm in Delaware. 
         </div>
