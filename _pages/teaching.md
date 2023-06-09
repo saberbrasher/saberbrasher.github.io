@@ -39,7 +39,7 @@ nav_order: 5
 <p> I see students as future colleagues and adults, and as such I expect them to treat graduate school as they would any other fulltime job. I expect students to keep me informed as to when they will be unavailable or travelling, and they can expect a yearly performance review where we can both provide feedback to one another. I expect us to establish a working relationship that is grounded in clear and frequent communication. At the end of the day, I want all my students to succeed - to do that we need to make sure no issues fester or become bigger than they need to be. </p> 
 </div>
 
-<h4> Interested in joining the HydRA lab? </h4>
+<p><h4> Interested in joining the HydRA lab? </h4></p>
 
 <p>If you are interested in working with the HydRA lab, please reach out via email. In the email it is very helpful if you include a bit about why you are interested in working with the group, who you are/ relevant experience, and attach the latest version of your CV. We are open to discussing possibilities with those interested across all stages of an academic career (from undergraduate - graduate - postdoc) but please know that, even if the fit seems ideal, positions are not always available, and availability depends on several factors. </p>
 
@@ -71,7 +71,7 @@ nav_order: 5
 <p>Throughout my teaching, I keep in mind the following: How can I empower students to confidently discuss, and understand, such pertinent subject matters? Climate and environmental sciences directly influence all life on the planet. How, through my teaching, can I do the most good, for the students, but also for the planet? </p>
 </div>
 
-<h4> Courses taught at OSU: </h4>
+<p><h4> Courses taught at OSU: </h4></p>
 
 <dl>
  <dt> Meteorology (GEOG 3033): </dt>
