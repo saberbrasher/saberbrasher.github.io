@@ -89,7 +89,7 @@ nav_order: 2
  
  
  
- <h2 id="faculty">Underaduate Students</h2>
+ <h2 id="faculty">Undergraduate Students</h2>
  
  <p>
     </p>
