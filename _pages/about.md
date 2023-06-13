@@ -12,8 +12,8 @@ social: false  # includes social icons at the bottom of the page
 
 ![Image Alt Text](../assets/img/prof_pic.jpg)
 
-<big> Housed in the <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> at Oklahoma State University and led by Dr. Saber E. Brasher, the HydRA lab studies <b>Hydroclimate and EnviRonmental Adaptation to climate change</b>. Climate change touches all aspects of the natural world, with shifting weather patterns and water regimes changing the environment at a rapid rate. The lab is grounded in the field of Climatology, but incorporates adjacent disciplines such as Meteorology, Environmental Science, Biogeography, and Hydrology to study environmental changes more holistically.
+<p style="font-size: 20px;"> Housed in the <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> at Oklahoma State University and led by Dr. Saber E. Brasher, the HydRA lab studies <b>Hydroclimate and EnviRonmental Adaptation to climate change</b>. Climate change touches all aspects of the natural world, with shifting weather patterns and water regimes changing the environment at a rapid rate. The lab is grounded in the field of Climatology, but incorporates adjacent disciplines such as Meteorology, Environmental Science, Biogeography, and Hydrology to study environmental changes more holistically.<p>
 
-<big> Want to know more? Read about our <a href='https://saberbrasher.github.io/research/'>work</a> or learn more about the <a href='https://saberbrasher.github.io/people/'>lab members and get contact information</a>.
+<p style="font-size: 20px;"> Want to know more? Read about our <a href='https://saberbrasher.github.io/research/'>work</a> or learn about the <a href='https://saberbrasher.github.io/people/'>lab members and get contact information</a>.</p>
 
 ![Image Alt Text](../assets/img/prof_pic2.jpg)
