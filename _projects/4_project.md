@@ -37,11 +37,11 @@ category: Environmental Adaptation
     <div class="col-sm-8">
         <p style="font-size: 18px;"> As climate changes, the environment changes along with it. Habitats that used to be suitable for certain species no longer are, and areas that used to be too frigid (or unsuitable) potentially become new livable territory. </p>
         
-        <p style="font-size: 18px;">Rapid environmental change favors the generalist species, i.e. those that can adapt quickly, can rely on diverse resources, and that typically can easilly move when a habitat is no longer suitable. </p>
+        <p style="font-size: 18px;">Rapid environmental change favors the generalist species, i.e. those that can adapt quickly, can rely on diverse resources, or that can move when a habitat is no longer suitable. </p>
         
        <p style="font-size: 18px;">Incorporating the physical state of the atmosphere, things such as the configuration of Rossby waves, the frequency of particular weather patterns, transitions from one climate regime to another... has shown to be increasingly useful, at a higher level of detail, in understanding ecological change. </p> 
         
-        <p style="font-size: 18px;">Species richness, or biodiversity, is a key component of a healthy and thriving ecosystem. What do rapid environmental changes mean then for the non-generalists (the specialists)? How can climate science be utilized to better understand biodiversity?
+        <p style="font-size: 18px;">Biodiversity is a key component of a healthy ecosystem. What do rapid environmental changes mean then for the non-generalists (or specialist) species? How can climate science be utilized to better understand biodiversity?
         </p> 
     </div>
 </div>
