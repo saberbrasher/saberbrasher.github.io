@@ -48,13 +48,11 @@ category: Environmental Adaptation
 
 <div class="row">
     <div class="col-sm-4">
-        <big> <p> Ideas are evolving, but some questions of interest include:</p> 
+        <p> Ideas are evolving, but some questions of interest include:</p> 
         <p> How can synoptic climatology be used as a tool in better understanding migratory behaviors? Or to better understand niche species domains? </p>  
         <p> How are climate change-induced (determined through synoptic climatological methods or by analyzing climate model output) land management practices (for things such as recreation, agriculture, or urbanization) impacting species richness? How can such strategies evolve to improve biodiversity? </p>  
         <p> How can hydroclimatic changes (atmospheric variables along with water access and input to streams and local waterways) be better utlized in determining geographic range shifts of generalist species? </p>  
-        <p> The lab is actively seeking interdisciplinary collaborations to tackle such questions. If you are a scholar or student with expertise or interest in these areas, we'd love to chat!</p>  
-        
-        
+        <p> The lab is actively seeking interdisciplinary collaborations to tackle such questions. If you are a scholar or student with expertise or interest in these areas, we'd love to chat!</p>   
     </div>
      <div class="col-sm-8">
         {% include figure.html path="assets/img/p4_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
