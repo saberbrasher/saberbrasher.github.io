@@ -41,13 +41,12 @@ category: Environmental Adaptation
         
        <p> Incorporating the physical state of the atmosphere, things such as the configuration of Rossby waves, the frequency of particular weather patterns, transitions from one climate regime to another... has shown to be increasingly useful, at a higher level of detail, in understanding ecological change. </p> 
         
-        <p><big> Species richness, or biodiversity, is a key component of a healthy and thriving ecosystem. What do rapid environmental changes mean then for the non-generalists (the specialists)? How can climate science be utlized to better understand biodiversity?
-            </p>    
+        <p>Species richness, or biodiversity, is a key component of a healthy and thriving ecosystem. What do rapid environmental changes mean then for the non-generalists (the specialists)? How can climate science be utlized to better understand biodiversity?
+        </p>    
     </div>
 </div>
 
 <div class="row">
-   
     <div class="col-sm-4">
         <big> <p> Ideas are evolving, but some questions of interest include:</p> 
         <p> How can synoptic climatology be used as a tool in better understanding migratory behaviors? Or to better understand niche species domains? </p>  
