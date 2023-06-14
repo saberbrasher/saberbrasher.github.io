@@ -71,18 +71,21 @@ category: Hydroclimate
         <p style="font-size: 18px;"> As the year gets progressively cooler, and the cryo-cover has had a chance to stabilize, the trends are more comparable, before stable cover becomes larger as temperatures begin to warm again. At this point, it is less likely for new cryo-cover to be formed (as insolation is higher), resulting in negative trends to be more biased toward the stable cover. 
 </p>
 
-</p>
 
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm-6">
-             <p style="font-size: 18px;"> As the year gets progressively cooler, and the cryo-cover has had a chance to stabilize, the trends are more comparable, before stable cover becomes larger as temperatures begin to warm again. At this point, it is less likely for new cryo-cover to be formed (as insolation is higher), resulting in negative trends to be more biased toward the stable cover. 
+               <p style="font-size: 18px;"> To better understand these transitions, three transitional months of cryo-cover transformation, March, June and October were analyzed using the MeaSuREs derived cryo-cover concentration dataset. Cryo-cover transformation was analyzed on a regional and hemispheric basis with trends calculated for all areas identified by SOMs (Self-Organizing Maps, Kohonen 1988). 
 </p>
 
-<p style="font-size: 18px;"> As cryo-cover regimes change with warming temperatures, the reduction in stable cover could potentially be linked back to the magnitude of transient increases in previous seasons, with transient cover becoming more prevalent.
+<p style="font-size: 18px;"> SOMs are often used as a substitute for a traditional cluster analysis. Like cluster analysis, a SOM will place data points in a user defined number of clusters (referred to as “nodes”). 
 </p>
+
+<p style="font-size: 18px;"> However, SOMs (unlike cluster analysis) do not rely on linearity or on the data conforming to a specific distribution and nodes that are closer together on the map have more in common than those that are farther apart (unlike traditional clusters). The SOM output for the three months is in the three-panel figure below, where each map is an averaged node.
+</p>
+
     </div>
      <div class="col-sm-6">
         {% include figure.html path="assets/img/p1_8.jpg" class="img-fluid rounded z-depth-1" %}
@@ -90,11 +93,15 @@ category: Hydroclimate
 </div>
 <div class="row">
     <div class="col-sm-6">
-           <p style="font-size: 18px;"> The Earth's cryo-cover (defined here as snow cover and sea ice) is dynamic and varies considerably on both interannual and seasonal time-scales. Consensus agrees that snow cover and sea ice areas are changing, but there is still much work to be done on where, how much, and what influence these changes will have. </p>
+             <p style="font-size: 18px;"> Results suggest cryo-cover decreases (in area and stability) during March and June as pixels shift from SOM identified stable patterns to more transient patterns. October results suggest increases in transient cryo-cover, a result of declining stability in sea ice but also increasing snow cover predominantly centered around 50 °N latitude. </p>
         
-        <p style="font-size: 18px;"> Snow cover and sea ice have been analyzed as a comprehensive cryo-cover spatially and temporally but also as distinct cover types. Distinction between the type of cryo-cover present (whether it is a stable/ consistent cover or a transient/ephemeral cover) has also been researched, as coverage consistency complicates radiative processes and dynamics. </p>
+        <p style="font-size: 18px;"> All months experience regions of increasing and decreasing cryo-cover trends. Decreasing trends are pre- dominant in March and June, although some areas of increase are apparent even during these months. By contrast, October has significant area experiencing increasing trends in cryo-cover, as well as large decreasing trends in the ice domain. </p>
         
-        <p style="font-size: 18px;"> Distinction between the type of cryo-cover present (whether it is a stable/ consistent cover or a transient/ephemeral cover) has also been researched, as coverage consistency complicates radiative processes and dynamics. </p>
+        <p style="font-size: 18px;"> Although the cryosphere is often discussed in its separate components (largely sea ice and snow cover), and in large regional terms (North America and Eurasia), better specification of the smaller regional cryo-cover patterns will be imperative to studying how cryo-cover will change with rising temperatures and how it may influence the atmosphere and radiation budget throughout its transitions. </p>
+
+<p style="font-size: 18px;"> Being able to determine specific regions that vary in a synergistic way, and perhaps are also influenced by similar mechanisms (be it specific teleconnections or otherwise) will be a key component to this understanding.
+</p>
+
     </div>
      <div class="col-sm-6">
         {% include figure.html path="assets/img/p1_7.jpg" class="img-fluid rounded z-depth-1" %}
