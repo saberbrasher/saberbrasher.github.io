@@ -28,8 +28,8 @@ category: Hydroclimate
 
 <div class="row">
     <div class="col-sm-4">
-        <p style="font-size: 18px;"> Snow cover and sea ice have been analyzed as a comprehensive cryo-cover spatially and temporally but also as distinct cover types. Distinction between the type of cryo-cover present (whether it is a stable/ consistent cover or a transient/ephemeral cover) has also been researched, as coverage consistency complicates radiative processes and dynamics. </p>
-        <p style="font-size: 18px;"> Cryo-cover spatiotemporal variations, and transitions, are a crucial component of the global climate system. Many of the teleconnections between a rapidly changing cryosphere and larger atmospheric dynamics are still unknown.        </p>   
+        <p style="font-size: 18px;"> The lab has analyzed snow cover and sea ice both as a comprehensive cryo-cover spatially and temporally but also as distinct cover types. Distinction between the type of cryo-cover present (whether it is a stable/ consistent cover or a transient/ephemeral cover) has also been studied, as coverage consistency complicates radiative processes and dynamics. </p>
+        <p style="font-size: 18px;"> Cryo-cover spatiotemporal variations, and transitions, are a crucial component of the global climate system. Many of the teleconnections between a rapidly changing cryosphere and larger atmospheric dynamics are still unknown and is an avenue of continued research.        </p>   
       </div>
      <div class="col-sm-8">
         {% include figure.html path="assets/img/p1_4.jpg" class="img-fluid rounded z-depth-1" %}
