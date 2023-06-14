@@ -42,7 +42,25 @@ category: Hydroclimate
         <p style="font-size: 20px;"> The lab is actively seeking interdisciplinary collaborations to tackle such questions. If you are a scholar or student with expertise or interest in these areas, we'd love to chat!</p>   
     </div>
      <div class="col-sm-8">
-        {% include figure.html path="assets/img/p4_4.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/p1_4.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.html path="assets/img/p1_6.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.html path="assets/img/p1_8.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.html path="assets/img/p1_5.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.html path="assets/img/p1_7.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -58,7 +76,18 @@ category: Hydroclimate
     </div>
 </div>
 
-
+<div class="row">
+    <div class="col-sm-4">
+        {% include figure.html path="assets/img/p1_12.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        <p style="font-size: 18px;"> The Earth's cryo-cover (defined here as snow cover and sea ice) is dynamic and varies considerably on both interannual and seasonal time-scales. Consensus agrees that snow cover and sea ice areas are changing, but there is still much work to be done on where, how much, and what influence these changes will have. </p>
+        
+        <p style="font-size: 18px;"> Snow cover and sea ice have been analyzed as a comprehensive cryo-cover spatially and temporally but also as distinct cover types. Distinction between the type of cryo-cover present (whether it is a stable/ consistent cover or a transient/ephemeral cover) has also been researched, as coverage consistency complicates radiative processes and dynamics. </p>
+        
+        <p style="font-size: 18px;"> Cryo-cover spatiotemporal variations, and transitions, are a crucial component of the global climate system. Many of the teleconnections between a rapidly changing cryosphere and larger atmospheric dynamics are still unknown.        </p> 
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
