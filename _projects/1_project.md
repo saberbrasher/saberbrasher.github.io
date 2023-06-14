@@ -71,7 +71,6 @@ category: Hydroclimate
         <p style="font-size: 18px;"> As the year gets progressively cooler, and the cryo-cover has had a chance to stabilize, the trends are more comparable, before stable cover becomes larger as temperatures begin to warm again. At this point, it is less likely for new cryo-cover to be formed (as insolation is higher), resulting in negative trends to be more biased toward the stable cover. 
 </p>
 
-<p style="font-size: 18px;"> As cryo-cover regimes change with warming temperatures, the reduction in stable cover could potentially be linked back to the magnitude of transient increases in previous seasons, with transient cover becoming more prevalent.
 </p>
 
     </div>
@@ -94,6 +93,7 @@ category: Hydroclimate
            <p style="font-size: 18px;"> The Earth's cryo-cover (defined here as snow cover and sea ice) is dynamic and varies considerably on both interannual and seasonal time-scales. Consensus agrees that snow cover and sea ice areas are changing, but there is still much work to be done on where, how much, and what influence these changes will have. </p>
         
         <p style="font-size: 18px;"> Snow cover and sea ice have been analyzed as a comprehensive cryo-cover spatially and temporally but also as distinct cover types. Distinction between the type of cryo-cover present (whether it is a stable/ consistent cover or a transient/ephemeral cover) has also been researched, as coverage consistency complicates radiative processes and dynamics. </p>
+        
         <p style="font-size: 18px;"> Distinction between the type of cryo-cover present (whether it is a stable/ consistent cover or a transient/ephemeral cover) has also been researched, as coverage consistency complicates radiative processes and dynamics. </p>
     </div>
      <div class="col-sm-6">
