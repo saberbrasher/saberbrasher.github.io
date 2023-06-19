@@ -28,7 +28,7 @@ category: Hydroclimate
         {% include figure.html path="assets/img/p2_4.tiff" class="img-fluid rounded z-depth-1"%}
     </div>
       <div class="caption">
-            Left: March average (1979–2012) cryo-cover concentration by numbered node, Middle: June average (1979–2012) cryo-cover concentration by numbered node, Right: October average (1979 – 2012) cryo-cover concentration by numbered node. Source: Brasher, in progress.
+            Heat map and seasonal variation of monthly precipitation (inches/month) from 2010-2020 in Jackson County (SW border region), Oklahoma, with data from the ALTU Ok-Mesonet station. Source: Brasher, in progress.
         </div>
 </div>
 
@@ -53,7 +53,7 @@ category: Hydroclimate
         {% include figure.html path="assets/img/p2_6.tiff" class="img-fluid rounded z-depth-1"%}
     </div>
       <div class="caption">
-            Left: March average (1979–2012) cryo-cover concentration by numbered node, Middle: June average (1979–2012) cryo-cover concentration by numbered node, Right: October average (1979 – 2012) cryo-cover concentration by numbered node. Source: Brasher, in progress.
+            Heat map and seasonal variation of monthly precipitation (inches/month) from 2010-2020 in Texas County (NW panhandle region), Oklahoma, with data from the HOOK Ok-Mesonet station. Source: Brasher, in progress.
         </div>
 </div>
 
@@ -70,12 +70,14 @@ category: Hydroclimate
         
         <p style="font-size: 18px;"> The Atlas uses surface stations, primarily from the National Weather Service Cooperative Observer Program, and statistical methodologies to provide point-based precipitation exceedance probability estimates for several durations and potential recurrence intervals. Unfortunately, the number and quality of Cooperative Observer sites varies greatly over space and time. 
 </p>
-<p style="font-size: 18px;"> We compared observed precipitation extremes from a high-resolution statewide mesonet to those estimated by the Atlas 14 product for a 10-year recurrence interval at several precipitation durations. Results of the analysis indicate that Atlas 14 underestimates the number and magnitude of extreme precipitation events across the state of Delaware at longer event durations (360- to 1,440-min). </p>
+<p style="font-size: 18px;"> We compared observed precipitation extremes from a high-resolution statewide mesonet to those estimated by the Atlas 14 product for a 10-year recurrence interval at several precipitation durations. Results of the analysis indicate that Atlas 14 underestimates the number and magnitude of extreme precipitation events across the state of Delaware at longer event durations (360- to 1,440-min). 
+</p>
+
+<p style="font-size: 18px;"> At shorter durations (5- to 240-min) the Atlas 14 estimates were more closely aligned. 100% of exceedance events in the 5-, 10-, 30-, and 60-min durations are a result of convective storms, while events of 120-, 180-, 360-, 720-, and 1,440-min are associated with tropical and mid-latitude cyclones. 
+</p>
     </div>
 
 
-
-<p style="font-size: 18px;"> At shorter durations (5- to 240-min) the Atlas 14 estimates were more closely aligned. 100% of exceedance events in the 5-, 10-, 30-, and 60-min durations are a result of convective storms, while events of 120-, 180-, 360-, 720-, and 1,440-min are associated with tropical and mid-latitude cyclones. </p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
