@@ -20,6 +20,6 @@ social: false  # includes social icons at the bottom of the page
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/ped_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ped_3.jpg" class="rounded z-depth-1" %}
     </div>
 </div>
