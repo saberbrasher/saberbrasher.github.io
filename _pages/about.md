@@ -17,3 +17,9 @@ social: false  # includes social icons at the bottom of the page
 <p style="font-size: 20px;"> Want to know more? Read about our <a href='https://saberbrasher.github.io/research/'>work</a> or learn about the <a href='https://saberbrasher.github.io/people/'>lab members and get contact information</a>.</p>
 
 ![Image Alt Text](../assets/img/prof_pic2.jpg)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/ped_3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
