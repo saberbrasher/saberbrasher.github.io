@@ -57,6 +57,9 @@ category: Environmental Adaptation
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/p3_8.png" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="caption">
+            Left: March average (1979–2012) cryo-cover concentration by numbered node, Middle: June average (1979–2012) cryo-cover concentration by numbered node, Right: October average (1979 – 2012) cryo-cover concentration by numbered node. Source: Brasher and Leathers, 2022. 
+        </div>
 </div>
 
 
