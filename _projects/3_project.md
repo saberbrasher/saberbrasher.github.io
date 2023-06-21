@@ -116,10 +116,10 @@ category: Environmental Adaptation
 
 <div class="row">
     <div class="col-sm-6">
-               <p style="font-size: 18px;"> To better understand these transitions, three transitional months of cryo-cover transformation, March, June and October were analyzed using the MeaSuREs derived cryo-cover concentration dataset. C 
+               <p style="font-size: 18px;"> Evolving work centers on Oklahoma. Agriculture consumes more than 34,400,000 of its total 44,080,000 acres, ranking it 4th in the nation for agricultural activities (https://www.nass.usda.gov/ ). It is crucial for agricultural communities to understand climatology and water resources when determining irrigation practices.  
 </p>
 
-<p style="font-size: 18px;"> SOMs are often used as a substitute for a traditional cluster analysis. Like cluster analysis, a SOM will place data points in a user defined number of clusters (referred to as “nodes”). 
+<p style="font-size: 18px;"> Many Oklahoma crops depend on irrigation, especially corn and cotton, which have seen increases in the total number of irrigated acres since 2013. Both crops are planted in the spring, grown in the summer, and harvested in the fall, making them susceptible to increasing summer high temperatures and drought. 
 </p>
 
     </div>
@@ -129,11 +129,13 @@ category: Environmental Adaptation
 </div>
 <div class="row">
     <div class="col-sm-6">
-             <p style="font-size: 18px;"> Results suggest cryo-cover decreases (in area and stability) during March and June as pixels shift from SOM identified stable patterns to more transient patterns. October results suggest increases in transient cryo-cover, a result of declining stability in sea ice but also increasing snow cover predominantly centered around 50 °N latitude. </p>
+             <p style="font-size: 18px;"> To explore these relationships, three counties are being analyzed from 2010 - 2020: Jackson County (the highest producer of cotton), Texas County (the highest producer of corn), and Tillman County (a high producer of both cotton and corn).
+ </p>
         
-        <p style="font-size: 18px;"> All months experience regions of increasing and decreasing cryo-cover trends. Decreasing trends are pre- dominant in March and June, although some areas of increase are apparent even during these months. By contrast, October has significant area experiencing increasing trends in cryo-cover, as well as large decreasing trends in the ice domain. </p>
+        <p style="font-size: 18px;"> The following questions guide this work:
+What is the relationship between corn and cotton irrigation and climate (precipitation and temperature)?  How has drought impacted cotton and corn production in Oklahoma, specifically in Spring and Summer? </p>
         
-        <p style="font-size: 18px;"> Although the cryosphere is often discussed in its separate components (largely sea ice and snow cover), and in large regional terms (North America and Eurasia), better specification of the smaller regional cryo-cover patterns will be imperative to studying how cryo-cover will change with rising temperatures and how it may influence the atmosphere and radiation budget throughout its transitions. </p>
+        <p style="font-size: 18px;"> Some preliminary findings: Tillman County cotton production decreased by 75% from 2011-2013. Spring had exceptionally low precipitation during 2011-2013 when most corn and cotton crops would be being planted and correspond well with the irrigation spike in 2013. Between the years 2011-2012, the summer and spring seasons had exceptionally high temperatures as well. After this period, crop cover largely decreased the following years (2012 and 2013) as the demand for irrigation increased. Coupled with extremely high temperatures in 2011 (increased evapotranspiration also escalating the need for irrigation), the study period of 2010 – 2020 covers a tumultuous period for Oklahoma agriculture. </p>
 
     </div>
      <div class="col-sm-6">
@@ -154,11 +156,16 @@ category: Environmental Adaptation
         </div>
      </div>
     <div class="col-sm-6">
-        <p style="font-size: 18px;"> The lab is currently addressing several questions that build on the themes above: </p>
+        <p style="font-size: 18px;"> The lab is currently working on adding to the body of work by answering the following questions: </p>
         
-        <p style="font-size: 18px;"> Do months of transient cryo-cover represent interannual variability in cryo-cover in specific locations, or long-term changes in cryo-cover where areas stably covered in the past are now more inconsistently covered in recent years? What global teleconnection patterns are linked to regional cover transitions? Are there certain mixed phases of teleconnection patterns that explain the most variance?  </p>
+        <p style="font-size: 18px;"> How can irrigation decisions (driven by climate) be directly linked to water availability? In Oklahoma, water is accessed via a mix of wells and surface water, and irrigation decisions are not always made by the same deciding factors.  </p>
 
-<p style="font-size: 18px;"> Do months of transient cryo-cover represent interannual variability in cryo-cover in specific locations, or long-term changes in cryo-cover where areas stably covered in the past are now more inconsistently covered in recent years? What global teleconnection patterns are linked to regional cover transitions? Are there certain mixed phases of teleconnection patterns that explain the most variance?  </p>
+<p style="font-size: 18px;"> How can irrigation decision-making be better informed by climatology in a way that is easily accessible and readily available? In what parts of the country would this type of decision-support tool be most useful and quickly integrated? How can climate models and irrigation need predictors better include the diverse needs of non-homogenous environments and agriculturalists?  </p>
+
+<p style="font-size: 18px;"> Streamflow and gage height measurements are widely used across the country to make important safety decisions - with the growing number of tools available to forecast streams, how can incorporating relevant physical geographic landscape features and regional climatology’s improve their performance? At what cost to processing/ run time and spatial coverage? </p>
+
+<p style="font-size: 18px;"> High-impact flooding and drought events often follow specific synoptic atmospheric precursors. In those areas most at risk, how can synoptic climatology better forecast the occurrence and explain the variance in frequency of both extremes?   
+</p>
     </div>
 
 <div class="row">
@@ -166,3 +173,4 @@ category: Environmental Adaptation
         {% include figure.html path="assets/img/p3_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
