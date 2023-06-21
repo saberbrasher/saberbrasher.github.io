@@ -69,10 +69,10 @@ category: Environmental Adaptation
 
 
 <div class="row">
-    <div class="col-sm-7">
+    <div class="col-sm-5">
         {% include figure.html path="assets/img/p3_9.tiff" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-7">
        <p style="font-size: 18px;"> Not all agricultural producers have access (or the training) to implement/ interpret high-tech decision-support tools to make irrigation decisions. Atmometers, or ET gages, are a low-cost alternative for informed irrigation. 
 </p>
         
@@ -85,13 +85,13 @@ category: Environmental Adaptation
     </div>
 </div>
 <div class="row">
-    <div class="col-sm-7">
+    <div class="col-sm-5">
         {% include figure.html path="assets/img/p3_10.png" class="img-fluid rounded z-depth-1" %}
       <div class="caption">
-            Top: Map of study area (Sussex County, Delaware, USA) showing the location of the three DEOS meteorological stations used (DSEA - Seaford, DE; DGES - Georgetown, DE; DWAR - Harbeson, DE). Bottom: Seasonal reference ET accumulation for each station (DGES: Georgetown, DE; DSEA: Seaford, DE; and DWAR: Harbeson, DE) from 2016 to 2017. Green dashed lines represent ETo and blue solid lines represent ETa. Source: Brinson, Leathers, and Brasher, 2023. 
+            Top: Map of study area (Sussex County, Delaware, USA) showing the location of the three DEOS meteorological stations used (DSEA - Seaford, DE; DGES - Georgetown, DE; DWAR - Harbeson, DE). Bottom: Seasonal reference ET accumulation for each station from 2016 to 2017. Green dashed lines represent ETo and blue solid lines represent ETa. Source: Brinson, Leathers, and Brasher, 2023. 
         </div>
      </div>
-    <div class="col-sm-5">
+    <div class="col-sm-7">
         <p style="font-size: 18px;"> We determined that atmometer performance was most impacted by wind speed, which had the greatest influence on ETa-ETo differences under all synoptic weather patterns. 
 </p> 
 
@@ -117,7 +117,7 @@ category: Environmental Adaptation
 
 
 <div class="row">
-    <div class="col-sm-6">
+    <div class="col-sm-7">
                <p style="font-size: 18px;"> Evolving work centers on Oklahoma. Agriculture consumes more than 34,400,000 of its total 44,080,000 acres, ranking it 4th in the nation for agricultural activities (https://www.nass.usda.gov/ ). It is crucial for agricultural communities to understand climatology and water resources when determining irrigation practices.  
 </p>
 
@@ -125,12 +125,12 @@ category: Environmental Adaptation
 </p>
 
     </div>
-     <div class="col-sm-6">
+     <div class="col-sm-5">
         {% include figure.html path="assets/img/p3_12.tiff" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
-    <div class="col-sm-6">
+    <div class="col-sm-7">
              <p style="font-size: 18px;"> To explore these relationships, three counties are being analyzed from 2010 - 2020: Jackson County (the highest producer of cotton), Texas County (the highest producer of corn), and Tillman County (a high producer of both cotton and corn).
  </p>
         
@@ -151,13 +151,13 @@ What is the relationship between corn and cotton irrigation and climate (precipi
 
     
 <div class="row">
-    <div class="col-sm-6">
+    <div class="col-sm-5">
         {% include figure.html path="assets/img/p3_16.tiff" class="img-fluid rounded z-depth-1" %}
       <div class="caption">
             Crop spatial coverage maps for Tillman County from 2010 – 2020. Source: Brasher and Livingston, in progress.
         </div>
      </div>
-    <div class="col-sm-6">
+    <div class="col-sm-7">
         <p style="font-size: 18px;"> The lab is currently addressing the following questions: </p>
         
 <p style="font-size: 18px; font-style: italic;"> In Oklahoma, water is accessed via a mix of wells and surface water, and irrigation decisions are not always made by the same deciding factors.  How can irrigation decisions (driven by climate) be directly linked to water availability? </p>
