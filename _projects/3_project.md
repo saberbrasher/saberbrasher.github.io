@@ -138,9 +138,7 @@ category: Environmental Adaptation
         
         <p style="font-size: 18px;"> To explore these relationships, three counties are being analyzed from 2010 - 2020: Jackson County (the highest producer of cotton), Texas County (the highest producer of corn), and Tillman County (a high producer of both cotton and corn).
  </p>
-        
-        <p style="font-size: 18px;"> The following questions guide this work:
-What is the relationship between corn and cotton irrigation and climate (precipitation and temperature)?  How has drought impacted cotton and corn production in Oklahoma, specifically in Spring and Summer? </p>
+     
         
         <p style="font-size: 18px;"> Some preliminary findings: Tillman County cotton production decreased by 75% from 2011-2013 coinciding with exceptionally dry Springs and a spike in irrigation. Spring and Summer of 2011-2012 had exceptionally high temperatures as well. Crop cover largely decreased the following years (2012 and 2013) as the demand for irrigation increased. Riddled by dry conditions coupled with extremely high temperatures, the study period of 2010 – 2020 covers a tumultuous period for Oklahoma agriculture. </p>
      </div>
