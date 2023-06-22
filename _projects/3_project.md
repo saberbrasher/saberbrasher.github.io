@@ -131,7 +131,7 @@ category: Environmental Adaptation
 </div>
 <div class="row">
     <div class="col-sm-7">
-             <p style="font-size: 18px;"> Both crops are planted in the spring, grown in the summer, and harvested in the fall, making them susceptible to increasing summer temperatures and drought. 
+        <p style="font-size: 18px;"> Both crops are planted in the spring, grown in the summer, and harvested in the fall, making them susceptible to increasing summer temperatures and drought. 
 </p> 
         
         <p style="font-size: 18px;"> To explore these relationships, three counties are being analyzed from 2010 - 2020: Jackson County (the highest producer of cotton), Texas County (the highest producer of corn), and Tillman County (a high producer of both cotton and corn).
@@ -141,10 +141,10 @@ category: Environmental Adaptation
 What is the relationship between corn and cotton irrigation and climate (precipitation and temperature)?  How has drought impacted cotton and corn production in Oklahoma, specifically in Spring and Summer? </p>
         
         <p style="font-size: 18px;"> Some preliminary findings: Tillman County cotton production decreased by 75% from 2011-2013 coinciding with exceptionally dry Springs and a spike in irrigation. Spring and Summer of 2011-2012 had exceptionally high temperatures as well. Crop cover largely decreased the following years (2012 and 2013) as the demand for irrigation increased. Riddled by dry conditions coupled with extremely high temperatures, the study period of 2010 – 2020 covers a tumultuous period for Oklahoma agriculture. </p>
- </div>
-<div class="col-sm-6">
+     </div>
+    <div class="col-sm-6">
     {% include figure.html path="assets/img/p3_13.tiff" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
+        <div class="caption">
         Top: Study area map showing the counties analyzed as well as the locations of the OK-Mesonet weather observation stations used. Bottom: Crop cover acreage by county from 2010 – 2020. Source: Brasher and Livingston, in progress.
        </div>
     </div>
