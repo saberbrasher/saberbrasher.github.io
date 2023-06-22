@@ -127,7 +127,7 @@ category: Environmental Adaptation
     <div class="col-sm-7">
         <p style="font-size: 18px;"> Evolving work centers on Oklahoma agriculture and hydroclimate. Agriculture consumes more than 34,400,000 of its total 44,080,000 acres, ranking it 4th in the nation for agricultural activities. 
         </p>
-        <p style="font-size: 18px;"> Many Oklahoma crops depend on irrigation, especially corn and cotton, which have seen increases in the total number of irrigated acres since 2013.  
+        <p style="font-size: 18px;"> Oklahoma also gets drier as you move from East to West and relies on diverse water sources to meet its needs. Many Oklahoma crops depend on irrigation, especially corn and cotton, which have increased in the total number of irrigated acres since 2013.  
 </p>
     </div>
     <div class="col-sm-5">
