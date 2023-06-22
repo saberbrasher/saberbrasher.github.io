@@ -79,7 +79,10 @@ category: Environmental Adaptation
         <p style="font-size: 18px;"> Reference evapotranspiration data from atmometers at three locations on the Delmarva Peninsula (USA) were compared to Penman-Monteith reference evapotranspiration (ETo) data across two growing seasons to assess their performance. Atmometer reference evapotranspiration (ETa) was found to underestimate ETo by 22.8% in 2016 and 30.4% in 2017. 
 </p>
         
-        <p style="font-size: 18px;"> Derived from local meteorological data, three dominant synoptic atmospheric categories were defined during the study period: High Pressure (HP), Southwest Flow (SW), and Cold Fronts (CF). Overall, the similarity between ETa and ETo was greatest on HP days, followed by CF and SW days. 
+                <p style="font-size: 18px;"> A Temporal Synoptic Index (TSI) was implemented to determine synoptic-scale climatic controls on evapotranspiration. The TSI uses meteorological observations from a single meteorological station (using four times daily meteorological observations of temperature, dew point temperature, sea level pressure, u and v wind components, and cloud cover) to infer the synoptic-scale atmospheric pattern over a large region, in this case, the Mid-Atlantic region of the United States.
+</p>
+        
+        <p style="font-size: 18px;"> Three dominant synoptic atmospheric categories were defined during the study period: High Pressure (HP), Southwest Flow (SW), and Cold Fronts (CF). Overall, the similarity between ETa and ETo was greatest on HP days, followed by CF and SW days. 
 </p>
 
     </div>
