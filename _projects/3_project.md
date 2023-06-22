@@ -125,7 +125,9 @@ category: Environmental Adaptation
 
 <div class="row">
     <div class="col-sm-7">
-        <p style="font-size: 18px;"> Evolving work centers on Oklahoma agriculture and hydroclimate. Agriculture consumes more than 34,400,000 of its total 44,080,000 acres, ranking it 4th in the nation for agricultural activities. Many Oklahoma crops depend on irrigation, especially corn and cotton, which have seen increases in the total number of irrigated acres since 2013.  
+        <p style="font-size: 18px;"> Evolving work centers on Oklahoma agriculture and hydroclimate. Agriculture consumes more than 34,400,000 of its total 44,080,000 acres, ranking it 4th in the nation for agricultural activities. 
+        </p>
+        <p style="font-size: 18px;"> Many Oklahoma crops depend on irrigation, especially corn and cotton, which have seen increases in the total number of irrigated acres since 2013.  
 </p>
     </div>
     <div class="col-sm-5">
@@ -150,7 +152,7 @@ category: Environmental Adaptation
     <div class="col-sm-5">
     {% include figure.html path="assets/img/p3_13.tiff" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-        Top: Study area map showing the counties analyzed as well as the locations of the OK-Mesonet weather observation stations used. Bottom: Crop cover acreage by county from 2010 – 2020. Source: Brasher and Livingston, in progress.
+        Top: Study area counties and weather observation stations used. Bottom: Crop acreage by county (2010 – 2020). Source: Brasher and Livingston, in progress.
        </div>
     </div>
 </div>
