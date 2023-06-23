@@ -20,7 +20,7 @@ category: Environmental Adaptation
     <div class="col-sm-8">
 <p style="font-size: 20px;"> Hydroclimatic changes have diverse implications, dependent both on the change itself but also the societal or environmental sector being impacted. For example, changes in the eastern half of the country (where water deficits are less of an issue) are often centered on flooding or better water management, where in the western half of the country issues typically center around a lack of water, or precipitation events that are of high intensity but low frequency.  
 </p>
-            <p style="font-size: 20px;"> Communities that are located near major waterways (streams and rivers) and those that are dependent on agriculture for a large portion of their economies are arguably at highest risk for facing the unknown, and often hard to predict, future climate. </p>
+            <p style="font-size: 20px;"> Communities that are located near major waterways (streams and rivers) and those that are dependent on agriculture for a large portion of their economies are arguably at highest risk for facing the unknown, and often hard to predict, future climate. Recent work focused on a suburban mixed land-use watershed (the Red Clay Creek) in northern Delaware to determine climatic conditions that most impacted streamflow modelling accuracy. </p>
         
        
     </div>
@@ -29,7 +29,7 @@ category: Environmental Adaptation
 
 <div class="row">
     <div class="col-sm-4">
-        <p style="font-size: 18px;"> Recent work focused on a suburban mixed land-use watershed (the Red Clay Creek) in northern Delaware to determine climatic conditions that most impacted streamflow modelling accuracy. The reference model was the National Water Model (NWM), which is a nationwide tool still in need of validation under specific hydrologic settings and hydroclimatic conditions. We evaluated its performance with an emphasis on the synoptic climatic conditions during high flow events in the context of a small, mixed land use basin. </p>
+        <p style="font-size: 18px;"> The reference model was the National Water Model (NWM), which is a nationwide tool still in need of validation under specific hydrologic settings and hydroclimatic conditions. We evaluated its performance with an emphasis on the synoptic climatic conditions during high flow events in the context of a small, mixed land use basin. </p>
         
         <p style="font-size: 18px;"> To test the NWM’s forecasting performance in the Red Clay Creek basin, we compared United States Geological Survey (USGS) observation data from three reaches on the Red Clay Creek to comparable 18-hour NWM forecast data.</p>   
       </div>
