@@ -80,7 +80,6 @@ We also found that 13 of the largest 15 differences between the NWM and observat
 <p style="font-size: 18px;"> It is important that water resource managers, emergency managers and other decision makers are aware of the tendencies of the NWM as its use becomes more widespread, but there is still ample work to be done.
 </p>   
 
-</p>   
 
 
 <div class="row">
