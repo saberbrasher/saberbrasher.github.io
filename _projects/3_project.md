@@ -29,7 +29,9 @@ category: Environmental Adaptation
 
 <div class="row">
     <div class="col-sm-4">
-        <p style="font-size: 18px;"> The reference model was the National Water Model (NWM), which is a nationwide tool still in need of validation under specific hydrologic settings and hydroclimatic conditions. We evaluated its performance with an emphasis on the synoptic climatic conditions during high flow events.To test the NWM’s forecasting performance in the Red Clay Creek basin, we compared United States Geological Survey (USGS) observation data from three reaches on the Red Clay Creek to comparable 18-hour NWM forecast data.
+        <p style="font-size: 18px;"> The reference model was the National Water Model (NWM), which is a nationwide tool still in need of validation under specific hydrologic settings and hydroclimatic conditions. 
+        </p>
+        <p style="font-size: 18px;">We evaluated its performance with an emphasis on the synoptic climatic conditions during high flow events. To test the NWM’s forecasting performance in the Red Clay Creek basin, we compared United States Geological Survey (USGS) observation data from three reaches on the Red Clay Creek to comparable 18-hour NWM forecast data.
         </p>
        
       </div>
