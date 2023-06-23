@@ -18,9 +18,9 @@ category: Environmental Adaptation
         {% include figure.html path="assets/img/p3_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8">
-<p style="font-size: 20px;"> The surface cover of the earth is a dynamic and integral part of the radiation balance; as such, changes from one surface cover type to another have implications for energy fluxes across the planet. The spectral differences between a cryo-covered (ice or snow) and a bare (exposed ground or open ocean) surface are extreme with the cryo-covered surface typically having a much higher albedo than the bare surface. This shift in albedo from one surface type to the other and resulting impacts on the radiation balance have been the subject of much research, although many additional implications are still unknown. 
+<p style="font-size: 20px;"> Hydroclimatic changes have diverse implications, dependent both on the change itself but also the societal or environmental sector being impacted. For example, changes in the eastern half of the country (where water deficits are less of an issue) are often centered on flooding or better water management, where in the western half of the country issues typically center around a lack of water, or precipitation events that are of high intensity but low frequency.  
 </p>
-            <p style="font-size: 20px;"> The Earth's cryo-cover (defined here as snow cover and sea ice) is dynamic and varies considerably on both interannual and seasonal time-scales. Consensus agrees that snow cover and sea ice areas are changing, but there is still much work to be done on where, how much, and what influence these changes will have. </p>
+            <p style="font-size: 20px;"> Communities that are located near major waterways (streams and rivers) and those that are dependent on agriculture for a large portion of their economies are arguably at highest risk for facing the unknown, and often hard to predict, future climate. </p>
         
        
     </div>
@@ -29,9 +29,9 @@ category: Environmental Adaptation
 
 <div class="row">
     <div class="col-sm-4">
-        <p style="font-size: 18px;"> The lab has analyzed snow cover and sea ice both as a comprehensive cryo-cover spatially and temporally but also as distinct cover types. Distinction between the type of cryo-cover present (whether it is a stable/ consistent cover or a transient/ephemeral cover) has also been studied, as coverage consistency complicates radiative processes and dynamics. </p>
+        <p style="font-size: 18px;"> Recent work focused on a suburban mixed land-use watershed (the Red Clay Creek) in northern Delaware to determine climatic conditions that most impacted streamflow modelling accuracy. The reference model was the National Water Model (NWM), which is a nationwide tool still in need of validation under specific hydrologic settings and hydroclimatic conditions. We evaluated its performance with an emphasis on the synoptic climatic conditions during high flow events in the context of a small, mixed land use basin. </p>
         
-        <p style="font-size: 18px;"> Cryo-cover spatiotemporal variations, and transitions, are a crucial component of the global climate system. </p>   
+        <p style="font-size: 18px;"> To test the NWM’s forecasting performance in the Red Clay Creek basin, we compared United States Geological Survey (USGS) observation data from three reaches on the Red Clay Creek to comparable 18-hour NWM forecast data.</p>   
       </div>
      <div class="col-sm-8">
         {% include figure.html path="assets/img/p3_4.png" class="img-fluid rounded z-depth-1" %}
@@ -41,6 +41,16 @@ category: Environmental Adaptation
      </div>
 </div>
 
+
+<p style="font-size: 18px;"> Differences in the distributions between modeled and observed data are clear with inspection of cumulative probability curves for each station (below, left). At each location the NWM generally underestimates discharge compared to observations for low flow events (< 1m3/s) and overestimates discharge for events greater than 1m3/s.
+</p>
+
+<p style="font-size: 18px;"> We also detailed the meteorological conditions during each flood event. It is worth noting that both convective precipitation events (those which are typically shorter but more intense in character) and mid-latitude cyclone-stratiform precipitation events (typically longer in duration but less intense) are associated with the floods and with both overestimation and underestimation by the NWM. 
+</p>
+
+<p style="font-size: 18px;"> Figure below/right shows the observed and NWM discharge for each of the three convective flooding events at the observation station in Wooddale, PA. Two of the three convective events were associated with overestimation of the discharge by the NWM and one a large underestimation of the flooding event of June 3, 2018, likely associated with a poor precipitation forecast. </p>
+
+
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
         {% include figure.html path="assets/img/p3_6.png" class="img-fluid rounded z-depth-1" %}
@@ -49,12 +59,27 @@ category: Environmental Adaptation
         {% include figure.html path="assets/img/p3_7.png" class="img-fluid rounded z-depth-1" %}
     </div>
       <div class="caption">
-            Left: Cumulative probability curves for Kennett Square, PA (a), Wooddale, DE (b) and Stanton, DE (c) for observed and modeled discharge values Please note that discharge was limited to 10 m3/s for graphing purposes. Right: Hydrographs of discharge for Wooddale, PA for all flooding events associated with convective storms; observations (solid) and NWM (dashed). Black line shows the flood stage. Source: Brasher, Leathers, Callahan, and Giesa, 2023.
+            Left: Cumulative probability curves for Kennett Square, PA (a), Wooddale, DE (b) and Stanton, DE (c) for observed and modeled discharge values .Please note that discharge was limited to 10 m3/s for graphing purposes. Right: Hydrographs of discharge for Wooddale, PA for all flooding events associated with convective storms; observations (solid) and NWM (dashed). Black line shows the flood stage. Source: Brasher, Leathers, Callahan, and Giesa, 2023.
         </div>
 </div>
 
 
-<p style="font-size: 18px;"> Determining specific regions that vary in a synergistic way, and perhaps are also influenced by similar mechanisms (be it specific teleconnections or otherwise) will be a key component in understanding the radiative impacts of a changing cryosphere in a warming climate. Determining specific regions that vary in a synergistic way, and perhaps are also influenced by similar mechanisms (be it specific teleconnections or otherwise) will be a key component in understanding the radiative impacts of a changing cryosphere in a warming climate.
+<p style="font-size: 18px;"> As an example of the synoptic analysis, the four-panel figure below shows the composited sea level pressure, 500 hPa geopotential heights, precipitation rate (mm/day), and lifted index for the eight non-tropical convective events that resulted in large discharge differences between the NWM and observations. 
+</p>
+
+<p style="font-size: 18px;"> The composited sea level pressure pattern shows a strong area of high pressure over the Atlantic Ocean producing southwesterly winds and the advection of warm, moist air across the region and the composited lifted index of this air is less than zero, indicating at least weak instability. A weak 500 hPa trough to the west of the Red Clay basin provides uplift associated with positive vorticity advection and the resulting composite precipitation rate shows mean values of 8 mm/day (not representative of isolated convective cells across the region).
+</p>
+
+<p style="font-size: 18px;"> To sum, the convective events, which all occurred from May through August, are associated with relatively heavy convective rainfall resulting from the advection of moist, unstable air into the region via strong return flow on the western side of high pressure over the Atlantic Ocean. Weak uplift from a 500 hPa trough to the west resulting in heavy convective rainfall. 
+</p>
+
+<p style="font-size: 18px;">  A few other takeaways: Convective rainfall events were associated with 66% of the 15 largest differences between NWM discharge estimates and USGS observations. Mid-latitude cyclone stratiform precipitation events accounted for the other 34%
+We also found that 13 of the largest 15 differences between the NWM and observations occurred with pre-cursor soil moisture that was below the mean (dry soil conditions), in conjunction with heavy rainfall.
+</p>
+
+<p style="font-size: 18px;"> It is important that water resource managers, emergency managers and other decision makers are aware of the tendencies of the NWM as its use becomes more widespread, but there is still ample work to be done.
+</p>   
+
 </p>   
 
 
