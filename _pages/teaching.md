@@ -18,9 +18,9 @@ nav_order: 5
     <div class="col-sm-6">
 <p style="font-size: 18px;"> A secret students should know? <b> No one has all of the answers. </b> The professors you idolize or are afraid of? They are still learning too, they have just gotten very good at asking questions (and finding the answers, which takes years of practice). </p>
 
-<p style="font-size: 18px;">A thirst to never stop learning and to continuously evolve and improve goes much farther than "book smarts", and drive (sometimes with a dash of stubbornness) will get you through the times that you wonder if finishing is worth it. Along the way though, don't struggle alone. Find your people. Whatever stage you are at in your career, find people that support you in the direction of your dreams. </p>
+<p style="font-size: 18px;">A thirst to never stop learning and to continuously improve goes much farther than "book smarts", and drive (sometimes with a dash of stubbornness) will get you through the times that you wonder if finishing is worth it. Along the way though, don't struggle alone. Find your people. Whatever stage you are at in your career, find people that support you in the direction of your dreams. </p>
 
-<p style="font-size: 18px;">As an educator, mentor, advisor, I strive to push students (of all stages) to new insights, to challenge them along the way, but to also creating an environment that they know is safe for asking questions. Failure happens and is often the catalyst for the biggest breakthroughs. Overcoming hardship builds confidence, and my goal is to create a space where failure is just seen as part of the process and not an end to discovery. </p>
+<p style="font-size: 18px;">As an educator, mentor, advisor, I strive to push students (of all stages) to new insights, to challenge them along the way, but to also create an environment that they know is safe for asking questions. Failure happens and is often the catalyst for the biggest breakthroughs. Overcoming hardship builds confidence, and my goal is to create a space where failure is just seen as part of the process and not an end to discovery. </p>
 
        
     </div>
@@ -33,9 +33,9 @@ nav_order: 5
 <h2>Mentoring</h2>
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
-<p style="font-size: 18px;">I have been fortunate to have excellent mentors - some were my research advisors, and others were other faculty in my departments who were kind enough to give me their time when they really had no obligation to. </p>
+<p style="font-size: 18px;">I have been fortunate to have excellent mentors - some were my research advisors, and others were faculty in my departments who were kind enough to give me their time when they had no obligation to. </p>
 
-<p style="font-size: 18px;">What drew me to this job, aside from an insatiable curiosity about the world around me, was mentorship. There is still a lot of inequity in the sciences and academia - most of the atmospheric sciences is white and male still. Some students are fortunate to have families support their pursuits in higher ed, where those who do not have that support struggle and find themselves lost without support. When I was lost in the academia maze, I had academic mentors that supported me and taught me, but not everyone is so lucky. </p>
+<p style="font-size: 18px;">What drew me to this job, aside from an insatiable curiosity about the world around me, was mentorship. There is still a lot of inequity in the sciences and academia - most of the atmospheric sciences is still white and male. Some students are fortunate to have families support their pursuits in higher ed, where those who don't often struggle and find themselves lost. When I was lost in the academia maze, I had academic mentors that supported me and taught me, but not everyone is so lucky. </p>
 
 <p style="font-size: 18px;">I approach mentorship by leaning into the non-traditional path that led me here but also by acknowledging my privilege to even have had higher education accessible to me, and now as a professor, to do work that inspires me from a place of stability. </p>
 
@@ -58,7 +58,7 @@ nav_order: 5
  <dt> Graduate Students: </dt>
  <dd>- Graduate students who want to work in the lab (both MS and PhD) will have to formally apply through the graduate school. There are two degrees to choose from (either Environmental Science or Geography, both offering MS and PhD programs) and both have different prerequisites and course requirements. The program that is the best fit will vary from student to student, but it is very much worth your time to research both so you choose which will best serve your long-term goals. Students who are admitted to either program will be offered a tuition waiver and healthcare benefits. Before applying to either, please reach out first. I only admit graduate students into the lab that I can guarantee an assistantship (funding) to - these funds usually come in the form of a Research Assistantship (RA, where the funds typically come from a grant) or Teaching Assistantship (TA, where funds come from the department). Depending on funding availability, the lab may not always be in a place to accept new students, or the projects that have been funded may require students with a very specific skill set.  Applying to graduate programs is expensive and time intensive - it is always a good idea to reach out to potential advisors first to discuss opportunities that are (or are not) available before submitting applications. Most will be very happy to talk to students who are excited about their work! </dd>
  <dt> Postdocs: </dt>
- <dd>- Currently I do not have funding to support a postdoc. If you think a collaboration between the two of us would be a great match, do feel free to reach out and we can discuss current proposals that are pending and other potential avenues for funding your time at OSU. </dd>
+ <dd>- Currently I do not have funding to support a postdoc. If you think a collaboration between the two of us would be a great match, feel free to reach out and we can discuss current proposals that are pending and other potential avenues for funding your time at OSU. </dd>
 </dl>
 </div>
 
