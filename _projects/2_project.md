@@ -108,9 +108,9 @@ category: Hydroclimate
 <p style="font-size: 20px;"> It is often “feast or famine” with hydroclimatic changes, and both scenarios have great societal implications. More regional investigations are needed for areas undergoing rapid change. Other research areas within this theme that are also of interest to the lab include: 
 </p>
 
-<p style="font-size: 18px; font-style: italic;"> How are areas where precipitation type is changing (say, from snow to rain) adjusting to new water regimes? How can we better understand the atmospheric dynamics responsible for such transitions?
+<p style="font-size: 18px; font-style: italic;"> How are areas where precipitation type is changing (say, from snow to rain) adjusting to new water regimes? How can we better understand the atmospheric dynamics responsible for such transitions? By understanding the synoptic climate forcings, can such high-impact events be better forecasted and prepared for?
 </p>
-<p style="font-size: 18px; font-style: italic;"> By understanding the synoptic climate forcings, can certain high-impact events (such as rain on snow flooding) be better forecasted and prepared for? What new data products and methods could prepare areas not used to such hazards while also deepening our understanding of the mechanisms involved?
+<p style="font-size: 18px; font-style: italic;">The timing of precipitation events also has significance. How can shifting precipitation frequency (and timing) changes be better quantified and prepared for, especially in vulnerable locations dependent on the water/snow lasting for extended periods (for example, Spring snowmelt out west)? 
 </p>
 <p style="font-size: 18px; font-style: italic;"> The central US is divided by water - to simplify, to the east, there is enough, and to the west, there is not. How is this divide transitioning in recent years - how are certain atmospheric situations changing with time that contributes to the location of the surplus/deficit line? 
 </p>
