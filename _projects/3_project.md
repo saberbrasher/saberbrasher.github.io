@@ -55,7 +55,7 @@ category: Environmental Adaptation
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.html path="assets/img/p3_6.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/p3_6.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
         {% include figure.html path="assets/img/p3_7.png" class="img-fluid rounded z-depth-1" %}
@@ -86,7 +86,7 @@ We also found that 13 of the largest 15 differences between the NWM and observat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/p3_8.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/p3_8.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
             Maps showing a) sea-level pressure, b) 500 hPa heights, c) precipitation rate (mm) and d) lifted index for the eight non-tropical convective events associated with the largest model/observation differences. Source: Brasher, Leathers, Callahan, and Giesa, 2023.
