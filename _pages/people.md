@@ -49,6 +49,26 @@ nav_order: 2
  <p>
     </p>
 
+<div class="card hoverable">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="/assets/img/abby.jpg" class="card-img img-fluid" alt="River">
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                    <h5 class="card-title">Abby Livingston</h5>                    
+                    <h6 class="card-subtitle mb-2 text-muted">Environmental Science Major</h6>
+                    <p class="card-text">
+                        Abby is an undergraduate at Oklahoma State University majoring in environmental science with a focus on policy. She is in her senior year of college. Abby is interested in studying several environmental topics such as climate change, air quality, and food waste. She also enjoys learning about agriculture including topics such as sustainable agriculture, cropping systems, and irrigation. Her future plans are to attend graduate school studying plant sciences or agronomy.
+                    </p>
+                     </div>
+            </div>
+        </div>
+    </div>
+<p>
+    </p>
+
+
 
 
  <h2 id="faculty">Lab Mascots</h2>
