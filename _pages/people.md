@@ -15,7 +15,7 @@ nav_order: 2
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="/assets/img/saber.jpg" class="card-img img-fluid" alt="Saber E. Brasher">
+                <img src="/assets/img/saber.jpg" class="card-img img-fluid" alt="Saber">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
@@ -40,7 +40,24 @@ nav_order: 2
  <h2 id="faculty">Graduate Students</h2>
 <p>
     </p>
-
+<div class="card hoverable">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="/assets/img/great.jpg" class="card-img img-fluid" alt="Great">
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                    <h5 class="card-title">Great Igiekhumhe, BT</h5>                    
+                    <h6 class="card-subtitle mb-2 text-muted">Environmental Science MS, in progress</h6>
+                    <p class="card-text">
+                        Great Igiekhumhe received his B.Tech. in Marine Science and Technology from the Federal University of Technology Akure, Nigeria. He is currently a master's student majoring in Environmental Science at the Department of Geography at Oklahoma State University. He is passionate about environmental stewardship, and has a range of research interests including climate change, sustainability, and air/water quality. He aspires to obtain a PhD in related disciplines, and support environmental management practices with scientific research. Outside of his studies, he likes to discuss, and engage in sports.
+                    </p>
+                     </div>
+            </div>
+        </div>
+    </div>
+<p>
+    </p>
  
  
  
@@ -52,7 +69,7 @@ nav_order: 2
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="/assets/img/abby.jpg" class="card-img img-fluid" alt="River">
+                <img src="/assets/img/abby.jpg" class="card-img img-fluid" alt="Abby">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
