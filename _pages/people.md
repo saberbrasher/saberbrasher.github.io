@@ -23,6 +23,7 @@ nav_order: 2
                     <h6 class="card-subtitle mb-2 text-muted">Assistant Professor and Lab Director</h6>
                     <p class="card-text">
                         Saber joined the Department of Geography at Oklahoma State University in 2022 after receiving her PhD in Climatology from the University of Delaware. She is also an affiliate faculty member for the Environmental Science Graduate Program at OSU. Outside of her research and teaching, she is an avid outdoorswoman and spends most of her free time running, hiking, bird watching, or camping in the great outdoors. She often takes a camera on these ventures (most of the photos on the website are her own!). 
+                        [CV - Last Updated September 2023](/assets/pdf/Brasher_CV_0923.pdf)
               
                     </p>
                      <a href="mailto:saber.brasher@okstate.edu" class="card-link"><i class="fas fa-envelope"></i></a>
