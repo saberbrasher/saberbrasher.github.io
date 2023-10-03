@@ -59,6 +59,27 @@ nav_order: 2
     </div>
 <p>
     </p>
+
+<p>
+    </p>
+<div class="card hoverable">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="/assets/img/farzana.jpg" class="card-img img-fluid" alt="Farzana">
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                    <h5 class="card-title">Farzana Afroz, BURP</h5>                    
+                    <h6 class="card-subtitle mb-2 text-muted">Geography MS, in progress</h6>
+                    <p class="card-text">
+                        Farzana Afroz earned her BURP (Bachelor's in Urban and Regional Planning) from the Rajshahi University of Engineering & Technology (RUET), Bangladesh. As a master’s student in the Department of Geography at OSU, she is thrilled to dive into the intricate web of interdisciplinary studies, focusing on RS and GIS applications across hydroclimate and land use changes. She envisions her future as a dedicated researcher, eagerly embracing challenges of the climatic domain. She is determined to use her organizational and interpersonal skills to shape a career that's as diverse as the world she aims to impact. Apart from her research and academic activities, she likes travelling and exploring new places.
+                    </p>
+                     </div>
+            </div>
+        </div>
+    </div>
+<p>
+    </p>
  
  
  
