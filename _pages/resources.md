@@ -63,14 +63,10 @@ nav_order: 6
 
 <h2>Learning to Code</h2>
 
-<div class="row">
-    <div class="col-sm-6">
-<p style="font-size: 18px;">Research without education and outreach accomplishes very little. The terms “climate change” and “global warming”, along with the increasing severity of extreme weather events, has moved climate science to the forefront of public discourse. I believe that education is powerful; it builds confidence and creates advocates for our planet. </p>
 
 <p style="font-size: 18px;">Environmental sciences are powerful tools in situational awareness: the subject matter is always around us. Regardless of the course level, my first teaching objective is to have students situate themselves within the discipline. I do this through mixed methods, such as including relevant news articles involving climate and the environment, photos and videos of areas undergoing environmental change, and by incorporating project work that engages students in research. </p>
 
         
-        </div>
 </div>
 
 
@@ -88,7 +84,7 @@ nav_order: 6
 </dl>
 </div>
 
-
+<hr />
 
 <h2>Starting a Research Project</h2>
 
@@ -96,6 +92,10 @@ Integrating ideas, thinking across disciplines, and condensing many seemingly se
 
 Sounds easy, right?? Maybe not.. and it shouldn't be! But like most things, breaking the process down into steps can make it much better. 
 
+
+<div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
+   <!-- Content goes here -->
+<dl>
 Some steps I think are important: 
 
 1. Conduct a literature search on the general topic that interests you (use key words that cover the topic, the geography, the field, etc., and try many different combinations of AND/EITHER/OR while adding/ removing different phrases if in Scopus/ Web of Science)
@@ -116,4 +116,5 @@ Also read stuff that is more adjacent/ less specialized (I call this the funnel 
 15. Submit, eventually.
 
 Creating new knowledge is a never ending cycle. Be prepared to have your views challenged and scrutinized - this is normal. Keep it up, and with time, the whole process will become second-nature.
-
+</dl>
+</div>
