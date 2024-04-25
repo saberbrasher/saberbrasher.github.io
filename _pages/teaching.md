@@ -89,6 +89,8 @@ nav_order: 5
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <dl>
+ <dt> Seminar in Climate Science (GEOG 5930): </dt>
+ <dd>- Graduate-level course in climate science for students in environmental science fields interested in incorporating climatic methods in their research. Begins with the physical foundations of climate science before diving into seminal research works, climate data types, research methods, and study design. Topics such as surface-atmosphere feedbacks, teleconnections, climate modelling, and ocean-atmosphere relationships are discussed at length.  </dd>
  <dt> Meteorology (GEOG 3033): </dt>
  <dd>- Introduces weather processes, including how energy, moisture, and variation in land cover surfaces influence weather phenomena across space. The course begins with an introduction to the atmosphere and how energy exchanges and physics dictate atmospheric motion before diving into atmospheric processes and specific weather phenomena, including winds, hurricanes, tornadoes, cyclones, etc., and how all are linked to the atmosphere’s state of stability. Meteorological hazards and extreme events are also discussed. </dd>
  <dt> Climatology (GEOG 3023): </dt>
