@@ -14,14 +14,12 @@ nav_order: 6
 
 <p style="font-size: 18px;">Below you will find a collection of resources that have provided useful over the years, including places to find data, some online handbooks for learning R, and a vague outline of how I break a new/ large project into chunks to make it less overwhelming. </p>
 
-<p style="font-size: 18px;">For the data section: There are many climate data sources, all in various formats and resolutions, and they are spread out all over the internet. This page could never contain them all, but should be a good resource to start your data digging process. I have predominantly organized things by the format most of the data from the source is available in (which determines what skills needed to work with it). I'm happy to update this page - let me know if there is something great you think I should add! </p>
-
-
-
 
 <hr />
 
 <h2>Data</h2>
+
+There are many climate data sources, all in various formats and resolutions, and they are spread out all over the internet. This page could never contain them all, but should be a good resource to start your data digging process. I have predominantly organized things by the format most of the data from the source is available in (which determines what skills needed to work with it). I'm happy to update this page - let me know if there is something great you think I should add! In addition to those below, 
 
 <p><h4> No spreadsheets or coding required: </h4></p>
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
@@ -66,8 +64,6 @@ nav_order: 6
 
 <p style="font-size: 18px;">Environmental sciences are powerful tools in situational awareness: the subject matter is always around us. Regardless of the course level, my first teaching objective is to have students situate themselves within the discipline. I do this through mixed methods, such as including relevant news articles involving climate and the environment, photos and videos of areas undergoing environmental change, and by incorporating project work that engages students in research. </p>
 
-        
-</div>
 
 
 <p><h4> For learning R: </h4></p>
@@ -98,23 +94,23 @@ Sounds easy, right?? Maybe not.. and it shouldn't be! But like most things, brea
 <dl>
 Some steps I think are important: 
 
-1. Conduct a literature search on the general topic that interests you (use key words that cover the topic, the geography, the field, etc., and try many different combinations of AND/EITHER/OR while adding/ removing different phrases if in Scopus/ Web of Science)
-2. Read, read, read... but also make sure you are keeping track of what you have read (annotating/ making notes/ etc.)
-Also read stuff that is more adjacent/ less specialized (I call this the funnel down approach, start "big picture" and get more specific as you go, eventually honing in on the niche of interest)
-3. Develop an annotated bibliography of the literature - this should be detailed and organized by theme
-4. THINK and ANALYZE - what knowledge gaps exist within this body of work? What hypothesis could aid in filling that gap (aka, what could YOU do?)
-5. Write an essay to justify (justify being a KEY word - cite ample literature here that makes what you are proposing make sense) the hypothesis you propose to test (this becomes an excellent Introduction to a proposal!)
-6. Write a lengthy description of what type of data you will collect (and WHY), including from where (metadata - strengths/ weaknesses), how much (temporal period/ spatial coverage, etc.), and how you will analyze it with an emphasis on WHY the methods were chosen (this will be a great draft of your Data and Methods section of your proposal/ eventual manuscript)
-7. Get the data (or create it!) and do any necessary pre-processing (be sure to document everything you do in detail for reproducability)
-8. Analyze data like you said you would; if you change any plans, be sure to document them and why
-9. Digest the results of analysis (do they make sense??) and put in context of previous literature (would this make sense to others/ is it consistent with what you have read?)
-10. Assuming everything seems good, check to make sure no more work on this topic has been published since you started (keep your literature base up to date)
-11. Prepare a manuscript draft - clean it up so it is easy to read, but accept that it may still be ugly at this point
-12. Send manuscript to at least one person you trust to give the first round of constructive feedback (advisor, other professors, colleagues, peers, etc.)
-13. Revise, send it to other trusted individuals
-14. Revise, revise, revise (never put "_final" at the end of a doc... you are lying)
-15. Submit, eventually.
+<dd>1. Conduct a literature search on the general topic that interests you (use key words that cover the topic, the geography, the field, etc., and try many different combinations of AND/EITHER/OR while adding/ removing different phrases if in Scopus/ Web of Science) </dd>
+<dd>2. Read, read, read... but also make sure you are keeping track of what you have read (annotating/ making notes/ etc.)
+Also read stuff that is more adjacent/ less specialized (I call this the funnel down approach, start "big picture" and get more specific as you go, eventually honing in on the niche of interest)</dd>
+<dd>3. Develop an annotated bibliography of the literature - this should be detailed and organized by theme</dd>
+<dd>4. THINK and ANALYZE - what knowledge gaps exist within this body of work? What hypothesis could aid in filling that gap (aka, what could YOU do?)</dd>
+<dd>5. Write an essay to justify (justify being a KEY word - cite ample literature here that makes what you are proposing make sense) the hypothesis you propose to test (this becomes an excellent Introduction to a proposal!)</dd>
+<dd>6. Write a lengthy description of what type of data you will collect (and WHY), including from where (metadata - strengths/ weaknesses), how much (temporal period/ spatial coverage, etc.), and how you will analyze it with an emphasis on WHY the methods were chosen (this will be a great draft of your Data and Methods section of your proposal/ eventual manuscript)</dd>
+<dd>7. Get the data (or create it!) and do any necessary pre-processing (be sure to document everything you do in detail for reproducability)</dd>
+<dd>8. Analyze data like you said you would; if you change any plans, be sure to document them and why</dd>
+<dd>9. Digest the results of analysis (do they make sense??) and put in context of previous literature (would this make sense to others/ is it consistent with what you have read?)</dd>
+<dd>10. Assuming everything seems good, check to make sure no more work on this topic has been published since you started (keep your literature base up to date)</dd>
+<dd>11. Prepare a manuscript draft - clean it up so it is easy to read, but accept that it may still be ugly at this point</dd>
+<dd>12. Send manuscript to at least one person you trust to give the first round of constructive feedback (advisor, other professors, colleagues, peers, etc.)</dd>
+<dd>13. Revise, send it to other trusted individuals</dd>
+<dd>14. Revise, revise, revise (never put "_final" at the end of a doc... you are lying)</dd>
+<dd>15. Submit, eventually.</dd>
 
-Creating new knowledge is a never ending cycle. Be prepared to have your views challenged and scrutinized - this is normal. Keep it up, and with time, the whole process will become second-nature.
+<dd>Creating new knowledge is a never ending cycle. Be prepared to have your views challenged and scrutinized - this is normal. Keep it up, and with time, the whole process will become second-nature.</dd>
 </dl>
 </div>
