@@ -9,13 +9,13 @@ nav_order: 6
 
 <h2> About this page: </h2>
 
-<p style="font-size: 20px;"> Academia can be an odd place to navigate, especially as a first-generation or minority-identifying student/ scholar. There are a lot of "unwritten rules" for how to behave within the academy, how to communicate, and how to do your work. As a first-generation scholar myself, I am still learning the systems too, and I urge all students and prospective graduate researchers to remember the following: <b> there are no stupid questions. </b></p>
 
+<p style="font-size: 18px;">Starting and leading a research project can be daunting, especially if this is your first time to do so. We currently live in a time where there are many different data products, skills, and methods to approach research questions (and figuring out what to do and why is a skill itself!). This page is by no means comprehensive, but it could serve as a launching/ starting point for students (or researchers interested in dipping their toes in climate science) to find data/skill training relevant to their study questions. </p>
 
+<p style="font-size: 18px;">Below you will find a collection of resources that have provided useful over the years, including places to find data, some online handbooks for learning R, and a vague outline of how I break a new/ large project into chunks to make it less overwhelming. </p>
 
-<p style="font-size: 18px;">A thirst to never stop learning and to continuously improve goes much farther than "book smarts", and drive (sometimes with a dash of stubbornness) will get you through the times that you wonder if finishing is worth it. Along the way though, don't struggle alone. Find your people. Whatever stage you are at in your career, find people that support you in the direction of your dreams. </p>
+<p style="font-size: 18px;">For the data section: There are many climate data sources, all in various formats and resolutions, and they are spread out all over the internet. This page could never contain them all, but should be a good resource to start your data digging process. I have predominantly organized things by the format most of the data from the source is available in (which determines what skills needed to work with it). I'm happy to update this page - let me know if there is something great you think I should add! </p>
 
-<p style="font-size: 18px;">As an educator, mentor, advisor, I strive to push students (of all stages) to new insights, to challenge them along the way, but to also create an environment that they know is safe for asking questions. Failure happens and is often the catalyst for the biggest breakthroughs. Overcoming hardship builds confidence, and my goal is to create a space where failure is just seen as part of the process and not an end to discovery. </p>
 
 
 
@@ -26,20 +26,15 @@ nav_order: 6
 <p><h4> No spreadsheets or coding required: </h4></p>
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
-<p style="font-size: 18px;">I have been fortunate to have excellent mentors - some were my research advisors, and others were faculty in my departments who were kind enough to give me their time when they had no obligation to. </p>
+<dl>
+ <dt> Undergraduate Students: </dt>
+ <dd>- I enjoy working with undergraduates who are excited about learning the ins and outs of research.  Please reach out if you have interests in atmospheric science (climatology/ meteorology) or more general environmental science and climate interactions (especially if you are a previous student of mine!). There are a couple opportunities on campus that could fund your research activities (like the AURCA program in the College of Arts and Sciences) or you could potentially get research course credits if you are looking to get more hours for graduation.  </dd>
 
-<p style="font-size: 18px;">What drew me to this job, aside from an insatiable curiosity about the world around me, was mentorship. There is still a lot of inequity in the sciences and academia - most of the atmospheric sciences is still white and male. Some students are fortunate to have families support their pursuits in higher ed, where those who don't often struggle and find themselves lost. When I was lost in the academia maze, I had academic mentors that supported me and taught me, but not everyone is so lucky. </p>
+</dl>
 
-<p style="font-size: 18px;">I approach mentorship by leaning into the non-traditional path that led me here but also by acknowledging my privilege to even have had higher education accessible to me, and now as a professor, to do work that inspires me from a place of stability. </p>
 
-<p style="font-size: 18px;">I try to embody the characteristics that I respected the most about my own mentors: transparency, clear expectations, consistent feedback, openness to new ideas, and enthusiasm. I expect my students to work hard, but by no means do I expect perfection - what I do expect is a growth mindset and consistent efforts toward self-improvement. I hold myself to these same standards. </p>
 
-<p style="font-size: 18px;">Students in the lab can expect to have regular 1 on 1 meetings with me (more frequently the earlier they are in their graduate career) but they are also highly encouraged to help one another and to find assistance (and comfort!) in their colleagues. </p>
-
-<p style="font-size: 18px;"> I see students as future colleagues and adults, and as such I expect them to treat graduate school as they would any other fulltime job. I expect students to keep me informed as to when they will be unavailable or travelling, and they can expect a yearly performance review where we can both provide feedback to one another. I expect us to establish a working relationship that is grounded in clear and frequent communication. At the end of the day, I want all my students to succeed - to do that we need to make sure no issues fester or become bigger than they need to be. </p> 
-</div>
-
-<p><h4> Spreadsheets Required: </h4></p>
+<p><h4> Spreadsheets required: </h4></p>
 
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
@@ -50,7 +45,7 @@ nav_order: 6
 </dl>
 </div>
 
-<p><h4> Coding/ GIS Required: </h4></p>
+<p><h4> Coding/ GIS required: </h4></p>
 
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
