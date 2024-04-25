@@ -31,7 +31,7 @@ nav_order: 6
  <dd>- I enjoy working with undergraduates who are excited about learning the ins and outs of research.  Please reach out if you have interests in atmospheric science (climatology/ meteorology) or more general environmental science and climate interactions (especially if you are a previous student of mine!). There are a couple opportunities on campus that could fund your research activities (like the AURCA program in the College of Arts and Sciences) or you could potentially get research course credits if you are looking to get more hours for graduation.  </dd>
 
 </dl>
-
+</div>
 
 
 <p><h4> Spreadsheets required: </h4></p>
@@ -88,14 +88,32 @@ nav_order: 6
 </dl>
 </div>
 
-<p>
-    
-</p>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/ped_3.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
+<h2>Starting a Research Project</h2>
+
+Integrating ideas, thinking across disciplines, and condensing many seemingly separate studies to have some sort of holistic understanding of a field/ gaps in the literature is not easy. You must learn how to be systematically and strategically curious and to make connections across fields that there is a good chance you are very new to. Then, once you have a good idea... it turns out someone has done it already. Time to come up with something new!
+
+Sounds easy, right?? Maybe not.. and it shouldn't be! But like most things, breaking the process down into steps can make it much better. 
+
+Some steps I think are important: 
+
+1. Conduct a literature search on the general topic that interests you (use key words that cover the topic, the geography, the field, etc., and try many different combinations of AND/EITHER/OR while adding/ removing different phrases if in Scopus/ Web of Science)
+2. Read, read, read... but also make sure you are keeping track of what you have read (annotating/ making notes/ etc.)
+Also read stuff that is more adjacent/ less specialized (I call this the funnel down approach, start "big picture" and get more specific as you go, eventually honing in on the niche of interest)
+3. Develop an annotated bibliography of the literature - this should be detailed and organized by theme
+4. THINK and ANALYZE - what knowledge gaps exist within this body of work? What hypothesis could aid in filling that gap (aka, what could YOU do?)
+5. Write an essay to justify (justify being a KEY word - cite ample literature here that makes what you are proposing make sense) the hypothesis you propose to test (this becomes an excellent Introduction to a proposal!)
+6. Write a lengthy description of what type of data you will collect (and WHY), including from where (metadata - strengths/ weaknesses), how much (temporal period/ spatial coverage, etc.), and how you will analyze it with an emphasis on WHY the methods were chosen (this will be a great draft of your Data and Methods section of your proposal/ eventual manuscript)
+7. Get the data (or create it!) and do any necessary pre-processing (be sure to document everything you do in detail for reproducability)
+8. Analyze data like you said you would; if you change any plans, be sure to document them and why
+9. Digest the results of analysis (do they make sense??) and put in context of previous literature (would this make sense to others/ is it consistent with what you have read?)
+10. Assuming everything seems good, check to make sure no more work on this topic has been published since you started (keep your literature base up to date)
+11. Prepare a manuscript draft - clean it up so it is easy to read, but accept that it may still be ugly at this point
+12. Send manuscript to at least one person you trust to give the first round of constructive feedback (advisor, other professors, colleagues, peers, etc.)
+13. Revise, send it to other trusted individuals
+14. Revise, revise, revise (never put "_final" at the end of a doc... you are lying)
+15. Submit, eventually.
+
+Creating new knowledge is a never ending cycle. Be prepared to have your views challenged and scrutinized - this is normal. Keep it up, and with time, the whole process will become second-nature.
 
