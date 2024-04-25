@@ -17,7 +17,7 @@ nav_order: 6
 
 <hr />
 
-<h2>Data</h2>
+<h2>Finding Data</h2>
 
 There are many climate data sources, all in various formats and resolutions, and they are spread out all over the internet. This page could never contain them all, but should be a good resource to start your data digging process. I have predominantly organized things by the format most of the data from the source is available in (which determines what skills needed to work with it). I'm happy to update this page - let me know if there is something great you think I should add! In addition to those below, 
 
@@ -59,14 +59,11 @@ There are many climate data sources, all in various formats and resolutions, and
 
 
 
-<h2>Learning to Code</h2>
+<h2>Coding in R</h2>
 
 
-<p style="font-size: 18px;">Environmental sciences are powerful tools in situational awareness: the subject matter is always around us. Regardless of the course level, my first teaching objective is to have students situate themselves within the discipline. I do this through mixed methods, such as including relevant news articles involving climate and the environment, photos and videos of areas undergoing environmental change, and by incorporating project work that engages students in research. </p>
+Environmental sciences are powerful tools in situational awareness: the subject matter is always around us. Regardless of the course level, my first teaching objective is to have students situate themselves within the discipline. I do this through mixed methods, such as including relevant news articles involving climate and the environment, photos and videos of areas undergoing environmental change, and by incorporating project work that engages students in research.
 
-
-
-<p><h4> For learning R: </h4></p>
 
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
@@ -92,8 +89,7 @@ Sounds easy, right?? Maybe not.. and it shouldn't be! But like most things, brea
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <dl>
-Some steps I think are important: 
-
+<dd></dd>Some steps I think are important: </dd>
 <dd>1. Conduct a literature search on the general topic that interests you (use key words that cover the topic, the geography, the field, etc., and try many different combinations of AND/EITHER/OR while adding/ removing different phrases if in Scopus/ Web of Science) </dd>
 <dd>2. Read, read, read... but also make sure you are keeping track of what you have read (annotating/ making notes/ etc.)
 Also read stuff that is more adjacent/ less specialized (I call this the funnel down approach, start "big picture" and get more specific as you go, eventually honing in on the niche of interest)</dd>
