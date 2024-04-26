@@ -25,11 +25,49 @@ There are many climate data sources, all in various formats and resolutions, and
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <dl>
- <dt> <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> </dt>
- <dd>- I enjoy working with undergraduates who are excited about learning the ins and outs of research.  Please reach out if you have interests in atmospheric science (climatology/ meteorology) or more general environmental science and climate interactions (especially if you are a previous student of mine!). There are a couple opportunities on campus that could fund your research activities (like the AURCA program in the College of Arts and Sciences) or you could potentially get research course credits if you are looking to get more hours for graduation.  </dd>
+ 
+<dt> <a href='  https://climatetoolbox.org/'> Climate Toolbox </a> </dt>
+ <dd>- A (huge) collection of web tools for visualizing past and projected climate and hydrology of the contiguous United States. There are so many things available here... If you go to "tools" and "variable lookup" you will be given a list of options for your variable of interest and what tools it is included in. Most of the graphics the tools make are pretty decent, and each tool has a mini tutorial included to make sure you know how to use it. Most of them also give you the option to download the data as well if you want to create your own graphics/ conduct your own analysis on it. You can also just go straight to "Data download" if you want to take the data elsewhere. </dd>
+
+<dt> <a href=' https://www.climateengine.org/'> Climate Engine </a> </dt>
+ <dd>- Free to use, needs a google account, works best with google chrome. Another tool that you can use to make graphics from a variety of datasets using many different variables/ covering various spatial and temporal resolutions. Like above, you can create and download graphics from specific points or polygons (aka, states/ regions). You can access both the images and a csv of the data after creation (if you want to take the data elsewhere). This one requires some pre-understanding of the variables; not much context is given on what each is/ how they are derived. </dd>
+
+
+<dt> <a href=' https://psl.noaa.gov/data/composites/day/'> Daily Composites </a> </dt>
+ <dd>- Plot daily composites (averages) of the mean or anomalies (mean - total mean) of variables from the NCEP/NCAR Reanalysis and other datasets. Long term means (climatologies) are based on 1991-2020. Data is available from Jan 1948 to previous current day for most variables.</dd>
+
+<dt> <a href='https://psl.noaa.gov/cgi-bin/data/composites/printpage.pl '> Monthly Composites </a> </dt>
+ <dd>- Plot seasonal composites (averages) of the mean or anomalies (mean - total mean) of variables from the NCEP reanalysis and other datasets. NCEP data is available from Jan 1948 to Mar 2024 . Other datasets have different time ranges. Note the climatology used for the anomaly and long term mean plots is now 1991-2020 to match the new climate normal time period.</dd>
+
+<dt> <a href=' https://weather.us/radar-us/stormtracking.html/ '> Historical Doppler Radar Maps  </a> </dt>
+ <dd>- Create maps of various Doppler products (as well as some satellite imagery) for specific times in the past (you set the date/ hours/ map location). </dd>
+
+<dt> <a href='  https://www.ncei.noaa.gov/access/billions/'> Billion Dollar Weather Events</a> </dt>
+ <dd>- Create maps and histograms/ calculate trends in costly weather events (nationwide or statewide). Graphics produced can be downloaded directly, OR you can download the data used to make the graphic and use another software to make your own.). </dd>
+
+<dt> <a href='  https://www.ncdc.noaa.gov/cag/'> NOAA Climate at a Glance</a> </dt>
+ <dd>- The tool provides near real-time analysis of monthly and annual temperatures (globally, nationally, statewide, regions, and counties) and is intended for the study of climate variability and change. You can create maps, look at time series, create Haywood plots, look at rankings, etc. All data to make graphics can ALSO be downloaded for analysis in other environments. </dd>
+
+<dt> <a href='  https://www.climate.gov/'> Climate.gov </a> </dt>
+ <dd>- This resource is both educational/ informative (it has decent descriptions for some of the climate tools presented) but it also has maps and paths to various climate data available (things like teleconnection and drought indices, sea ice change, sea level rise, among many others).</dd>
+
+<dt> <a href='  https://charts.climate.lsu.edu/mly'> Climate Charts </a> </dt>
+ <dd>- You can choose a state (or climate division) and create monthly precipitation and temperature (compared to the 30-year mean) plots as well as climate trends charts of temperature and precipitation. </dd>
+
+<dt> <a href='  https://hazards.fema.gov/nri/map'> FEMA Hazards Index </a> </dt>
+ <dd>- Create maps (or download data) of risky, vulnerability, expected losses, and community resilience to various weather hazards across the US. The maps look nice, but the data used to make them can also be downloaded for use in a variety of formats.</dd>
+
+
+
+
+
+
+
+
 
 </dl>
 </div>
+
 
 
 <p><h4> Spreadsheets required: </h4></p>
