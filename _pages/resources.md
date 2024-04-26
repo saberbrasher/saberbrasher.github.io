@@ -68,12 +68,12 @@ Many climate data products need something beyond spreadsheets to work with them.
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <dl>
- <dt> <a href= ‘https://posit.co/download/rstudio-desktop/'>R and R Studio</a> </dt>
- <dd>- The first step in working with R. There are other IDEs out there, but Studio is pretty good.  </dd>
+ <dt> <a href=‘https://posit.co/download/rstudio-desktop/'>R and R Studio</a> </dt>
+ <dd>- The first step in working with R. This is a free and easy download. Studio is the "Environment" that you interact with R in (basically, where you will do your writing, running, and troubleshooting, etc.). There are other IDEs out there, but Studio is pretty good and very intuitive to learn and get used to.  </dd>
  <dt> <a href='https://environmentalcomputing.net/about-this-site/'>Environmental Computing</a> </dt>
- <dd>- An online textbook utilizing R for environmental data analysis.  </dd>
- <dt> <a href= ‘https://mgimond.github.io/Spatial/index.html'>GIS and Spatial Analysis</a> </dt>
- <dd>- Explains/ teaches how many different GIS tasks can be done in R.</dd>
+ <dd>- An online textbook utilizing R for environmental data analysis. The book starts very basic/ beginner friendly and uses examples that are relevant/ could transfer to atmospheric sciences.   </dd>
+ <dt> <a href=‘https://mgimond.github.io/Spatial/index.html'>GIS and Spatial Analysis</a> </dt>
+ <dd>- Explains/ teaches how many different GIS tasks can be done in R through a series of walkthroughs and example code.</dd>
 </dl>
 </div>
 
