@@ -86,10 +86,10 @@ There are many climate data sources, all in various formats and resolutions, and
 <dt> <a href=' https://www.weather.gov/wrh/climate'> National Weather Service</a> </dt>
  <dd>- Weather data organized by local climate offices. You can select the office nearest your study area and browse the "NowData" variables available. They provide a table that can easily be copied into a spreadsheet for analysis. </dd>
 
-<dt> <a href=' https://www.personal.kent.edu/~cclee/gwtc2global.html'> Gridded Weather Type Classification v2</a> </dt>
+<dt> <a href=' https://www.personal.kent.edu/~cclee/gwtc2global.html'> Gridded Weather Type Classification, v2</a> </dt>
  <dd>- The gridded weather typing classification (GWTC) system is a geographically and seasonally relative classification of multivariate surface weather conditions (weather types) for North America. Using six near-surface weather variables (temperature, dew point, sea-level pressure, cloudiness, wind speed, and wind direction) from the North American Regional Reanalysis (NARR) the GWTC classifies every day since 1979 into one of 11 different weather types at over 9000 locations. Data is downloaded in csv format. </dd>
 
-<dt> <a href=' https://sheridan.geog.kent.edu/ssc3.html'> Spatial Synoptic Classification v3</a> </dt>
+<dt> <a href=' https://sheridan.geog.kent.edu/ssc3.html'> Spatial Synoptic Classification, v3</a> </dt>
  <dd>- The SSC is based solely on surface based observations at individual stations. Four-times daily observations of temperature, dew point, wind, pressure, and cloud cover are incorporated into the model. Based on these variables, relative to the climatological norm, each day is given a weather type classification. Within the SSC scheme, weather-type characteristics change from station to station and day to day. Data is available for download as text files (by station).</dd>
 
 
