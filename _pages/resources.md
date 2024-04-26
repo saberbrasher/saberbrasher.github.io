@@ -51,23 +51,15 @@ There are many climate data sources, all in various formats and resolutions, and
 <dt> <a href='  https://www.climate.gov/'> Climate.gov </a> </dt>
  <dd>- This resource is both educational/ informative (it has decent descriptions for some of the climate tools presented) but it also has maps and paths to various climate data available (things like teleconnection and drought indices, sea ice change, sea level rise, among many others).</dd>
 
-<dt> <a href='  https://charts.climate.lsu.edu/mly'> Climate Charts </a> </dt>
+<dt> <a href='https://charts.climate.lsu.edu/mly'> Climate Charts </a> </dt>
  <dd>- You can choose a state (or climate division) and create monthly precipitation and temperature (compared to the 30-year mean) plots as well as climate trends charts of temperature and precipitation. </dd>
 
-<dt> <a href='  https://hazards.fema.gov/nri/map'> FEMA Hazards Index </a> </dt>
+<dt> <a href=' https://hazards.fema.gov/nri/map'> FEMA Hazards Index </a> </dt>
  <dd>- Create maps (or download data) of risky, vulnerability, expected losses, and community resilience to various weather hazards across the US. The maps look nice, but the data used to make them can also be downloaded for use in a variety of formats.</dd>
-
-
-
-
-
-
-
 
 
 </dl>
 </div>
-
 
 
 <p><h4> Spreadsheets required: </h4></p>
@@ -75,11 +67,35 @@ There are many climate data sources, all in various formats and resolutions, and
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <dl>
- <dt> <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> </dt>
- <dd>- I enjoy working with undergraduates who are excited about learning the ins and outs of research.  Please reach out if you have interests in atmospheric science (climatology/ meteorology) or more general environmental science and climate interactions (especially if you are a previous student of mine!). There are a couple opportunities on campus that could fund your research activities (like the AURCA program in the College of Arts and Sciences) or you could potentially get research course credits if you are looking to get more hours for graduation.  </dd>
+
+<dt> <a href=' https://nationalmesonet.us/'> Mesonets </a> </dt>
+ <dd>- "Mesoscale Networks" are weather station observation networks that are maintained by various states/ organizations. These are often going to be the highest resolution temporal coverage (at a point scale) data that you will be able to get for a state, although often data collection only began somewhere between the 1990s- early 2000s. From the national mesonet program website, you can navigate to "partners" to find state mesonets. Not every state has a high-res mesonet (they require substantial funding and upkeep) and not every mesonet collects the same exact data. To access the data, you will have to navigate to the state mesonet website you are interested in, and then either download the data straight from the website if it is allowed (by navigating through various tabs and links...) or you may have to put in a data request to the folks who maintain and QA/QC the data.</dd>
+
+<dt> <a href=' https://www.ncei.noaa.gov/access/search/data-search/daily-summaries'> Daily Global Historical Climatology Network, v3 </a> </dt>
+ <dd>- Daily climate observations from approximately 30 different data sources (downloads are in csv format). Contains station-based measurements from well over 90,000 land-based stations worldwide, about two thirds of which are for precipitation measurement only. Other meteorological elements include, but are not limited to, daily maximum and minimum temperature, temperature at the time of observation, snowfall and snow depth. </dd>
+
+<dt> <a href=' https://www.ncei.noaa.gov/access/search/data-search/global-historical-climatology-network-hourly'> Hourly Global Historical Climatology Network, v1 </a> </dt>
+ <dd>- Contains approximately 110 separate data sources and will be updated daily using the United States Air Force and NOAA Surface Weather Observations data streams (downloads in psv format). Has many different weather variables included and will eventually replace the ISD (below).</dd>
+
+<dt> <a href=' https://www.ncei.noaa.gov/access/search/data-search/global-hourly'> Integrated Surface Dataset </a> </dt>
+ <dd>- Worldwide surface weather observations (many variables, downloads in csv format) from over 35,000 stations. Hourly, synoptic (3-hourly), and daily weather observations are stored. For some stations, data may go as far back as 1901, though most data show a substantial increase in volume in the 1940s and again in the early 1970s. </dd>
+
+<dt> <a href=' https://www.cpc.ncep.noaa.gov/data/teledoc/telecontents.shtml'> Northern Hemisphere Teleconnections Dataset </a> </dt>
+ <dd>- Indices for download of the major teleconnection patterns associated with Northern Hemisphere weather behaviors.  Each link to a pattern also has descriptions of the pattern's behavior/ graphics of the index over time, as well as downloads of the raw values in text file formats). </dd>
+
+<dt> <a href=' https://www.weather.gov/wrh/climate'> National Weather Service</a> </dt>
+ <dd>- Weather data organized by local climate offices. You can select the office nearest your study area and browse the "NowData" variables available. They provide a table that can easily be copied into a spreadsheet for analysis. </dd>
+
+<dt> <a href=' https://www.personal.kent.edu/~cclee/gwtc2global.html'> Gridded Weather Type Classification v2</a> </dt>
+ <dd>- The gridded weather typing classification (GWTC) system is a geographically and seasonally relative classification of multivariate surface weather conditions (weather types) for North America. Using six near-surface weather variables (temperature, dew point, sea-level pressure, cloudiness, wind speed, and wind direction) from the North American Regional Reanalysis (NARR) the GWTC classifies every day since 1979 into one of 11 different weather types at over 9000 locations. Data is downloaded in csv format. </dd>
+
+<dt> <a href=' https://sheridan.geog.kent.edu/ssc3.html'> Spatial Synoptic Classification v3</a> </dt>
+ <dd>- The SSC is based solely on surface based observations at individual stations. Four-times daily observations of temperature, dew point, wind, pressure, and cloud cover are incorporated into the model. Based on these variables, relative to the climatological norm, each day is given a weather type classification. Within the SSC scheme, weather-type characteristics change from station to station and day to day. Data is available for download as text files (by station).</dd>
+
 
 </dl>
 </div>
+
 
 <p><h4> Coding/ GIS required: </h4></p>
 
