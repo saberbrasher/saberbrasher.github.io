@@ -102,15 +102,31 @@ There are many climate data sources, all in various formats and resolutions, and
 <div style="height: 225px; overflow: auto; border: 3px double #707070; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">
    <!-- Content goes here -->
 <dl>
- <dt> <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> </dt>
- <dd>- I enjoy working with undergraduates who are excited about learning the ins and outs of research.  Please reach out if you have interests in atmospheric science (climatology/ meteorology) or more general environmental science and climate interactions (especially if you are a previous student of mine!). There are a couple opportunities on campus that could fund your research activities (like the AURCA program in the College of Arts and Sciences) or you could potentially get research course credits if you are looking to get more hours for graduation.  </dd>
+
+
+<dt> <a href=' https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html'> NCEP-NCAR Reanalysis</a> </dt>
+ <dd>- The NCEP/NCAR Reanalysis 1 project is using a state-of-the-art analysis/forecast system to perform data assimilation using past data from 1948 to the present. Temporal coverage is 4-times daily, daily, and monthly values for 1948/01/01 to 2024/04/11 on a 2.5 degree x 2.5 degree global grids (144x73) from 0.0E to 357.5E, 90.0N to 90.0S. Reanalysis II is similar, but with different temporal coverage. </dd>
+
+<dt> <a href=' https://www.worldclim.org/data/index.html '> WorldClim</a> </dt>
+ <dd>- WorldClim is a database of high spatial resolution global weather and climate data. These data can be used for mapping and spatial modeling, and both historical and future conditions are included. Future conditions are downscaled CMIP6 model output. Monthly values of minimum temperature, maximum temperature, and precipitation were processed for 23 global climate models (GCMs), and for four SSPs: 126, 245, 370 and 585. They also have some bioclimatic variables calculated. Files come in TIFF format.  The monthly values were averages over 20 year periods (2021-2040, 241-2060, 2061-2080, 2081-2100).</dd>
+
+<dt> <a href=' https://prism.oregonstate.edu/'> PRISM Climate Data</a> </dt>
+ <dd>- Contains climate observations from a wide range of monitoring networks, applies sophisticated quality control measures, and develops spatial climate datasets to reveal short- and long-term climate patterns. The resulting datasets incorporate a variety of modeling techniques and are available at multiple spatial/temporal resolutions, covering the period from 1895 to the present. Gridded products come in a. BIL raster format. <a href=' https://cran.r-project.org/web/packages/prism/vignettes/prism.html'> This package</a> in R was made for working with PRISM data.</dd>
+
+<dt> <a href=' https://loca.ucsd.edu/'> LOCA Downscaled CMIP6</a> </dt>
+ <dd>- Downscaled CMIP6 projections (at 6km for most of North America) which includes many different models/ ensemble members and multiple SSP scenarios. Files are in netCDF format. </dd>
+
+<dt> <a href=' https://www.drought.gov/data-download'> Standardized Drought Indices</a> </dt>
+ <dd>- GeoTiff files of multiple drought indices across many different drought lengths and from many different sources. More metadata on each source is also available at the link.</dd>
+<dt> <a href=' https://droughtmonitor.unl.edu/DmData/GISData.aspx'> Drought Monitor GIS Data</a> </dt>
+ <dd>- Drought monitor data back to 2000 and the associated shapefiles needed to conduct GIS analysis. </dd>
+
+
+
 
 </dl>
 </div>
-
-
 <hr />
-
 
 
 <h2>Coding in R</h2>
