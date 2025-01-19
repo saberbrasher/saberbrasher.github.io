@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Hyd</b>roclimate and Envi<b>R</b>onmental <b>A</b>daptation
+subtitle: Climate Scientist, Writer, Photographer, Outdoor Fun-Haver
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -12,9 +12,13 @@ social: false  # includes social icons at the bottom of the page
 
 ![Image Alt Text](../assets/img/prof_pic.jpg)
 
-<p style="font-size: 20px;"> Housed in the <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> at Oklahoma State University and led by Dr. Saber E. Brasher, the HydRA lab studies <b>Hydroclimate and EnviRonmental Adaptation to climate change</b>. Climate change touches all aspects of the natural world, with shifting weather patterns and water regimes changing the environment at a rapid rate. The lab is grounded in the field of Climatology, but incorporates adjacent disciplines such as Meteorology, Biogeography, and Hydrology to study environmental changes more holistically.</p>
+<p style="font-size: 20px;">  Welcome! I'm Saber, a University of Delaware PhD holder (in Climatology), a prior tenure-track Assistant Professor at Oklahoma State University (now Affiliate Faculty), and currently an Associate Scientist with the National Snow and Ice Data Center working on scientific technical writing and science communications. </p>
 
-<p style="font-size: 20px;"> Want to know more? Read about our <a href='https://saberbrasher.github.io/research/'>work</a> or learn about the <a href='https://saberbrasher.github.io/people/'>lab members and get contact information</a>.</p>
+<p style="font-size: 20px;"> Aside from these "professional" things I also hold a lot of other identities: wife, daughter, photographer, dog-mom, trail runner, rock climber, bird watcher, backpacker, critter lover, teacher, mentor, book lover, Dungeons and Dragons nerd... the list could go on. As I step into a new chapter of both my professional and personal life, I am excited to embrace more facets of what makes me "me", and with time, this website will likely grow to reflect that. </p>
+
+<p style="font-size: 20px;"> Although I have moved on from "traditional" academia, I still love a good <a href='https://saberbrasher.github.io/publications/'>research project</a> and am leading/ have worked with some <a href='https://saberbrasher.github.io/people/'>amazing students.</a></p>
+
+<p style="font-size: 20px;"> The website is currently a work in progress in terms of being updated (as of: January 19, 2025), but feel free to look around to get a sample of my interests listed above. If you are interested in learning more about me, and why I chose to transition my career, you can read more about it <a href='https://saberbrasher.github.io/pedagogy/'>here.</a></p>
 
 ![Image Alt Text](../assets/img/prof_pic2.jpg)
 
