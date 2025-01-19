@@ -7,10 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-<p style="font-size: 20px;"> During my time as an Assistant Professor in the <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> at Oklahoma State University I supervised, and still work with, some amazing students on various climatic topics. The HydRA lab studies <b>Hydroclimate and EnviRonmental Adaptation to climate change</b>. Climate change touches all aspects of the natural world, with shifting weather patterns and water regimes changing the environment at a rapid rate. The lab is grounded in the field of Climatology, but incorporates adjacent disciplines such as Meteorology, Biogeography, and Hydrology to study environmental changes more holistically. Read more about the lab members below. </p>
+<p style="font-size: 20px;"> As an Assistant Professor in the <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> at Oklahoma State University I supervised, and still work with, some amazing students on various climatic topics. The HydRA lab studies <b>Hydroclimate and EnviRonmental Adaptation to climate change</b>. Climate change touches all aspects of the natural world, with shifting weather patterns and water regimes changing the environment at a rapid rate. The lab is grounded in the field of Climatology, but incorporates adjacent disciplines such as Meteorology, Biogeography, and Hydrology to study environmental changes more holistically. Read more about the lab members below. </p>
 
             
-<h2 id="faculty">Principal Investigator</h2>
+<h2 id="faculty">Lab Director</h2>
 
 <p>
     </p>
@@ -22,9 +22,9 @@ nav_order: 2
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
                     <h5 class="card-title">Saber E. Brasher, PhD </h5>                    
-                    <h6 class="card-subtitle mb-2 text-muted">Assistant Professor and Lab Director</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">Associate Scientist and Affiliate Professor</h6>
                     <p class="card-text">
-                        Saber joined the Department of Geography at Oklahoma State University in 2022 after receiving her PhD in Climatology from the University of Delaware. She is also an affiliate faculty member for the Environmental Science Graduate Program at OSU. Outside of her research and teaching, she is an avid outdoorswoman and spends most of her free time running, hiking, bird watching, or camping in the great outdoors. She often takes a camera on these ventures (most of the photos on the website are her own!). <br>
+                        I joined the Department of Geography at Oklahoma State University in 2022 after receiving my PhD in Climatology from the University of Delaware. In addition to my appointment in Geography, I was also an affiliate faculty member for the Environmental Science Graduate Program. After the fall session of 2024, I left the tenure track to pursue a position with CIRES/NSIDC as an Associate Scientist. Outside of work, I am an avid outdoorswoman and spend most of my free time running, hiking, bird watching, or camping in the great outdoors. I love photography, a good fantasy series, and spending time with my husband and pup. <br>
 <a href="/assets/pdf/Brasher_CV_0824.pdf" target="_blank">CV - Last Updated August 2024</a>
               
                     </p>
