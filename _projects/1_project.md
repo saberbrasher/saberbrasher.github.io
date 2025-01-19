@@ -128,18 +128,6 @@ category: Hydroclimate
 <p style="font-size: 18px;"> Determining specific regions that vary in a synergistic way, and perhaps are also influenced by similar mechanisms (be it specific teleconnections or otherwise) will be a key component in understanding the radiative impacts of a changing cryosphere in a warming climate.
 </p>   
     
-<div class="row">
-    <div class="col-sm-8">
-        {% include figure.html path="assets/img/p1_12.jpg" class="img-fluid rounded z-depth-1" %}
-      <div class="caption">
-            The stable circumpolar average (1979–2012) concentration pattern in March (A), June (B), and October (C) with the pixel trends and boxplots to show data distribution for each node in D, E and F. Source: Brasher and Leathers, 2022. 
-        </div>
-     </div>
-    <div class="col-sm-4">
-        <p style="font-size: 18px;"> The lab is currently addressing several questions that build on the themes above: </p>
-        
-        <p style="font-size: 18px;"> Do months of transient cryo-cover represent interannual variability in cryo-cover in specific locations, or long-term changes in cryo-cover where areas stably covered in the past are now more inconsistently covered in recent years? What global teleconnection patterns are linked to regional cover transitions? Are there certain mixed phases of teleconnection patterns that explain the most variance?  </p>
-    </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
