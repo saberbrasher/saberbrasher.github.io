@@ -19,14 +19,13 @@ nav_order: 5
 
 <p style="font-size: 18px;">  As a first-generation scholar myself, I am still learning the systems too, and I urge all students and prospective graduate researchers to remember the following: <b> there are no stupid questions. </b> </p>
     
-<p style="font-size: 18px;"> A secret students should know? <b> No one has all of the answers. The professors/ researchers you idolize or are afraid of? They are still learning too, they have just gotten very good at asking questions (and finding the answers, which takes years of practice). </p>
+<p style="font-size: 18px;"> A secret students should know? <b> No one has all of the answers.</b> The professors/ researchers you idolize or are afraid of? They are still learning too, they have just gotten very good at asking questions (and finding the answers, which takes years of practice). </p>
 
 <p style="font-size: 18px;">A thirst to never stop learning and to continuously improve goes much farther than "book smarts", and drive (sometimes with a dash of stubbornness) will get you through the times that you wonder if finishing is worth it. Along the way though, don't struggle alone. Find your people. Whatever stage you are at in your career, find people that support you in the direction of your dreams. </p>
 
 <p style="font-size: 18px;">People believing in me as a scrappy, first-gen student who didn't know if I was smart or not (and was working 30+ hours a week at a restaurant to pay for college) are the reason I am in this position today. To give back some of what they gave to me is a gift. </p>
 
-       
-</div>
+
 </div>
 
 <hr />
