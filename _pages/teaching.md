@@ -44,7 +44,7 @@ nav_order: 5
     <div class="col-sm-6">
         {% include figure.html path="assets/img/ped_2.jpg" class="img-fluid rounded z-depth-1" %}
         
-        </div>
+</div>
 </div>
 
 
@@ -64,6 +64,7 @@ nav_order: 5
 </dl>
 </div>
 
+</div>
 <p>
     
 </p>
