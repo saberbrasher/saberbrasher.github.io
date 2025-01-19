@@ -1,3 +1,4 @@
+
 ---
 layout: about
 title: About
@@ -10,9 +11,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<img src="../assets/img/prof_pic.jpg" alt="Image Alt Text" style="width: 40%; border-radius: 8px;">
+<!-- Full-size image with rounded edges -->
+<img src="../assets/img/prof_pic.jpg" alt="Image Alt Text" style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<!-- Left-aligned image with text on the right -->
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
     <img src="../assets/img/prof_pic3.jpg" alt="Image Alt Text" style="width: 40%; border-radius: 8px;">
     <div style="flex: 1;">
         <p style="font-size: 20px;">  
@@ -23,13 +26,15 @@ social: false  # includes social icons at the bottom of the page
         </p>
     </div>
 </div>
-     <p style="font-size: 20px;"> 
-            Although I have moved on from "traditional" academia, I still love a good <a href='https://saberbrasher.github.io/publications/'>research project</a> and am leading/ have worked with some <a href='https://saberbrasher.github.io/people/'>amazing students.</a>
-        </p>
-        <p style="font-size: 20px;"> 
-            The website is currently a work in progress in terms of being updated (as of: January 19, 2025), but feel free to look around to get a sample of my interests listed above. If you are interested in learning more about me, and why I chose to transition my career, you can read more about it <a href='https://saberbrasher.github.io/pedagogy/'>here.</a>
-        </p>
 
-![Image Alt Text](../assets/img/prof_pic2.jpg)
+<!-- Additional text below the left-aligned image section -->
+<p style="font-size: 20px;"> 
+    Although I have moved on from "traditional" academia, I still love a good <a href='https://saberbrasher.github.io/publications/'>research project</a> and am leading/ have worked with some <a href='https://saberbrasher.github.io/people/'>amazing students.</a>
+</p>
+<p style="font-size: 20px;"> 
+    The website is currently a work in progress in terms of being updated (as of: January 19, 2025), but feel free to look around to get a sample of my interests listed above. If you are interested in learning more about me, and why I chose to transition my career, you can read more about it <a href='https://saberbrasher.github.io/pedagogy/'>here.</a>
+</p>
 
+<!-- Another image with rounded edges -->
+<img src="../assets/img/prof_pic2.jpg" alt="Image Alt Text" style="width: 100%; border-radius: 8px; margin-top: 20px;">
 
