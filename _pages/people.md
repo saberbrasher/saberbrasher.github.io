@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /people/
-title: People
+title: HydRA Lab
 description: 
 nav: true
 nav_order: 2
 ---
+
+<p style="font-size: 20px;"> During my time as an Assistant Professor in the <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography</a> at Oklahoma State University I supervised, and still work with, some amazing students on various climatic topics. The HydRA lab studies <b>Hydroclimate and EnviRonmental Adaptation to climate change</b>. Climate change touches all aspects of the natural world, with shifting weather patterns and water regimes changing the environment at a rapid rate. The lab is grounded in the field of Climatology, but incorporates adjacent disciplines such as Meteorology, Biogeography, and Hydrology to study environmental changes more holistically. Read more about the lab members below. </p>
 
             
 <h2 id="faculty">Principal Investigator</h2>
