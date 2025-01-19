@@ -10,14 +10,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<img src="../assets/img/prof_pic.jpg" alt="Saber Profile Picture" class="img-fluid rounded">
+<img src="../assets/img/prof_pic.jpg" alt="Profile Landscape" class="img-fluid rounded">
 
 
-<div class="row mb-4">
-    <div class="col-md-6 text-center">
+<div class="row mb-5">
+    <div class="col-md-5 text-center">
         <img src="../assets/img/prof_pic3.jpg" alt="Profile Picture" class="img-fluid rounded">
     </div>
-    <div class="col-md-6">
+    <div class="col-md-5">
         <p style="font-size: 20px;">
             Welcome! I'm Saber, a University of Delaware PhD holder (in Climatology), a prior tenure-track Assistant Professor at Oklahoma State University (now Affiliate Faculty), and currently an Associate Scientist with the National Snow and Ice Data Center working on scientific technical writing and science communications.
         </p>
@@ -30,10 +30,10 @@ social: false  # includes social icons at the bottom of the page
 
 <p style="font-size: 20px;">
             Although I have moved on from "traditional" academia, I still love a good <a href="https://saberbrasher.github.io/publications/">research project</a> and am leading/have worked with some <a href="https://saberbrasher.github.io/people/">amazing students</a>.
-        </p>
-        <p style="font-size: 20px;">
+    </p>
+<p style="font-size: 20px;">
             The website is currently a work in progress in terms of being updated (as of: January 19, 2025), but feel free to look around to get a sample of my interests listed above. If you are interested in learning more about me, and why I chose to transition my career, you can read more about it <a href="https://saberbrasher.github.io/pedagogy/">here</a>.
-        </p>
+     </p>
    
   <img src="../assets/img/prof_pic2.jpg" alt="Third Profile Picture" class="img-fluid rounded">
     
