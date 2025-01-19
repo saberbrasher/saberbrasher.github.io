@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Research
 description: 
 years: [2023, 2022, 2021, 2020, 2019]
 nav: true
@@ -61,7 +61,7 @@ nav_order: 4
 
 
 
-
+<p style="font-size: 40px;"> Publications </p>
 
 <!-- _pages/publications.md -->
 <div class="publications">
