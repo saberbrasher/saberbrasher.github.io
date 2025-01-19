@@ -13,11 +13,11 @@ social: false  # includes social icons at the bottom of the page
 <img src="../assets/img/prof_pic.jpg" alt="Profile Landscape" class="img-fluid rounded">
 
 
-<div class="row mb-5">
-    <div class="col-md-5 text-center">
+<div class="row mb-6">
+    <div class="col-md-6 text-center">
         <img src="../assets/img/prof_pic3.jpg" alt="Profile Picture" class="img-fluid rounded">
     </div>
-    <div class="col-md-5">
+    <div class="col-md-6">
         <p style="font-size: 20px;">
             Welcome! I'm Saber, a University of Delaware PhD holder (in Climatology), a prior tenure-track Assistant Professor at Oklahoma State University (now Affiliate Faculty), and currently an Associate Scientist with the National Snow and Ice Data Center working on scientific technical writing and science communications.
         </p>
