@@ -69,7 +69,7 @@ nav_order: 5
     
 </p>
 
-
+<hr />
 
 <h2> Research Resources </h2>
 
