@@ -184,27 +184,6 @@ We also found that 13 of the largest 15 differences between the NWM and observat
 </div>
 
 
-    
-<div class="row">
-    <div class="col-sm-5">
-        {% include figure.html path="assets/img/p3_16.tiff" class="img-fluid rounded z-depth-1" %}
-      <div class="caption">
-            Crop spatial coverage maps for Tillman County from 2010 – 2020. Source: Brasher and Livingston, in progress.
-        </div>
-     </div>
-    <div class="col-sm-7">
-        <p style="font-size: 18px;"> The lab is currently addressing the following questions: </p>
-        
-<p style="font-size: 18px; font-style: italic;"> In Oklahoma, water is accessed via a mix of wells and surface water, and irrigation decisions are not always made by the same deciding factors.  How can irrigation decisions (driven by climate) be directly linked to water availability? </p>
-
-<p style="font-size: 18px; font-style: italic;">How can irrigation decision-making be better informed by climatology in a way that is easily accessible? In what parts of the country would this type of decision-support tool be most useful and quickly integrated? How can climate models and irrigation predictors better include the diverse needs of non-homogenous environments and agriculturalists?  </p>
-
-<p style="font-size: 18px; font-style: italic;">Streamflow and gage height measurements are widely used across the country to make important safety decisions - with the growing number of tools available to forecast streams, how can incorporating relevant physical landscape features and regional climatology improve performance? At what cost to processing/ run time and spatial coverage? </p>
-
-<p style="font-size: 18px; font-style: italic;">High-impact flooding and drought events often follow specific synoptic atmospheric precursors. In those areas most at risk, how can synoptic climatology better forecast the occurrence and explain the variance in frequency of both extremes?   
-</p>
-    </div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/p3_2.jpg" class="img-fluid rounded z-depth-1" %}
