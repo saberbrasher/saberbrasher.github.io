@@ -105,15 +105,6 @@ category: Hydroclimate
     The magnitude of the largest quality-controlled precipitation event for the 10-year period compared to that estimated from Atlas 14 (percentage) for (a) 1440-minute duration, (b) 120-minute duration, and (c) 5-minute duration. Source: Leathers, Brasher, Brinson, Hughes, and Weiskopf, 2019.
 </div>
 
-<p style="font-size: 20px;"> It is often “feast or famine” with hydroclimatic changes, and both scenarios have great societal implications. More regional investigations are needed for areas undergoing rapid change. Other research areas within this theme that are also of interest to the lab include: 
-</p>
-
-<p style="font-size: 18px; font-style: italic;"> How are areas where precipitation type is changing (say, from snow to rain) adjusting to new water regimes? How can we better understand the atmospheric dynamics responsible for such transitions? By understanding the synoptic climate forcings, can such high-impact events be better forecasted and prepared for?
-</p>
-<p style="font-size: 18px; font-style: italic;">The timing of precipitation events also has significance. How can shifting precipitation frequency (and timing) changes be better quantified and prepared for, especially in vulnerable locations dependent on the water/snow lasting for extended periods (for example, Spring snowmelt out west)? 
-</p>
-<p style="font-size: 18px; font-style: italic;"> The central US is divided by water - to simplify, to the east, there is enough, and to the west, there is not. How is this divide transitioning in recent years - how are certain atmospheric situations changing with time that contributes to the location of the surplus/deficit line? 
-</p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/p2_2.jpg" class="img-fluid rounded z-depth-1" %}
