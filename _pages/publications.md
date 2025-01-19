@@ -62,6 +62,7 @@ nav_order: 4
 
 
 <p style="font-size: 40px;"> Publications </p>
+<p></p>
 
 <!-- _pages/publications.md -->
 <div class="publications">
