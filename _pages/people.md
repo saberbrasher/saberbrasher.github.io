@@ -25,7 +25,7 @@ nav_order: 2
                     <h6 class="card-subtitle mb-2 text-muted">Associate Scientist and Affiliate Professor</h6>
                     <p class="card-text">
                         I joined the Department of Geography at Oklahoma State University in 2022 after receiving my PhD in Climatology from the University of Delaware. In addition to my appointment in Geography, I was also an affiliate faculty member for the Environmental Science Graduate Program. After the fall session of 2024, I left the tenure track to pursue a position with CIRES/NSIDC as an Associate Scientist. My research interests broadly span hydroclimatology, synoptic climatology and meteorology, climate dynamics, biogeography, and the linkages between ecosystems and climate change. <br>
-<a href="/assets/pdf/Brasher_CV_0824.pdf" target="_blank">CV - Last Updated August 2024</a>
+<a href="/assets/pdf/BrasherCV_0225.pdf" target="_blank">CV - Last Updated February 2025</a>
               
                     </p>
                      <a href="mailto:saber.brasher@okstate.edu" class="card-link"><i class="fas fa-envelope"></i></a>
