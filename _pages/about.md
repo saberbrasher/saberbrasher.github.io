@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
     <div class="col-md-8">
         <p style="font-size: 20px;">
-            Welcome! I'm Saber, a University of Delaware PhD holder (in Climatology), a prior tenure-track Assistant Professor at Oklahoma State University (now Affiliate Faculty), and currently an Associate Scientist with the National Snow and Ice Data Center working on scientific technical writing and science communications.
+            Welcome! I'm Saber, a University of Delaware PhD holder (in Climatology), a prior tenure-track Assistant Professor at Oklahoma State University (now Affiliate Faculty), and currently an Associate Scientist with the National Snow and Ice Data Center working on scientific technical writing, data management, scientific workflows, and science communications.
         </p>
          <p style="font-size: 20px;">
             Aside from these "professional" things, I also hold a lot of other identities: wife, daughter, dog-mom, photographer, trail runner, rock climber, bird watcher, backpacker, critter lover, teacher, mentor, book and video game lover, Dungeons and Dragons nerd... the list could go on. As I step into a new chapter of both my professional and personal life, I am excited to embrace more facets of what makes me "me," and with time, this website will likely grow to reflect that.
